@@ -1,0 +1,2000 @@
+song lyrics 	Arts/Music	panic at the disco 	0.500000
+song lyrics 	Arts/People	panic at the disco 	0.500000
+belmont stakes 	Sports/Equestrian	necn 	0.600000
+belmont stakes 	Regional/North_America	necn 	0.233333
+belmont stakes 	Arts/Music	necn 	0.033333
+belmont stakes 	Sports/Baseball	necn 	0.033333
+belmont stakes 	Arts/Movies	necn 	0.033333
+belmont stakes 	Arts/Television	necn 	0.033333
+belmont stakes 	Arts/People	necn 	0.033333
+roseanne 	Reference/Dictionaries	the simpsons 	0.037037
+roseanne 	Sports/Wrestling	the simpsons 	0.037037
+roseanne 	Society/Religion_and_Spirituality	the simpsons 	0.037037
+roseanne 	Science/Social_Sciences	the simpsons 	0.037037
+roseanne 	Arts/Music	the simpsons 	0.037037
+roseanne 	Science/Biology	the simpsons 	0.037037
+roseanne 	Arts/Literature	the simpsons 	0.037037
+roseanne 	Arts/Animation	the simpsons 	0.037037
+roseanne 	Society/Organizations	the simpsons 	0.037037
+roseanne 	Society/Ethnicity	the simpsons 	0.037037
+roseanne 	Society/History	the simpsons 	0.037037
+roseanne 	Arts/Performing_Arts	the simpsons 	0.037037
+roseanne 	Regional/Asia	the simpsons 	0.037037
+roseanne 	Regional/Caribbean	the simpsons 	0.037037
+roseanne 	Regional/Europe	the simpsons 	0.037037
+roseanne 	Regional/North_America	the simpsons 	0.037037
+roseanne 	Society/Crime	the simpsons 	0.037037
+roseanne 	Regional/Africa	the simpsons 	0.037037
+roseanne 	Sports/Baseball	the simpsons 	0.037037
+roseanne 	Arts/Design	the simpsons 	0.037037
+roseanne 	Games/Video_Games	the simpsons 	0.037037
+roseanne 	Regional/Oceania	the simpsons 	0.037037
+roseanne 	Arts/People	the simpsons 	0.037037
+roseanne 	Arts/Movies	the simpsons 	0.037037
+roseanne 	Arts/Television	the simpsons 	0.037037
+roseanne 	World/Deutsch	the simpsons 	0.037037
+roseanne 	Sports/Skating	the simpsons 	0.037037
+adult 	Arts/Movies	girls gone wild 	0.333333
+adult 	Arts/Television	girls gone wild 	0.333333
+adult 	Shopping/Entertainment	girls gone wild 	0.083333
+adult 	Business/Arts_and_Entertainment	girls gone wild 	0.083333
+adult 	Regional/North_America	girls gone wild 	0.083333
+adult 	Arts/Performing_Arts	girls gone wild 	0.083333
+soap operas 	Arts/People	sony pictures 	0.500000
+soap operas 	Arts/Television	sony pictures 	0.500000
+aolmail 	Computers/Internet	mercury news 	0.500000
+aolmail 	Regional/North_America	mercury news 	0.500000
+whole foods 	Home/Cooking	organic foods 	0.500000
+whole foods 	Business/Food_and_Related_Products	organic foods 	0.500000
+yandex ru 	World/Russian	uscis 	0.500000
+yandex ru 	Regional/Europe	uscis 	0.500000
+earthlink net 	Computers/Internet	indeed com 	0.366667
+earthlink net 	Regional/North_America	indeed com 	0.266667
+earthlink net 	Business/Telecommunications	indeed com 	0.233333
+earthlink net 	Arts/Television	indeed com 	0.083333
+earthlink net 	Reference/Directories	indeed com 	0.050000
+corel 	World/Français	best buy 	0.166667
+corel 	Computers/Companies	best buy 	0.166667
+corel 	Regional/North_America	best buy 	0.166667
+corel 	Arts/Video	best buy 	0.166667
+corel 	Computers/Software	best buy 	0.166667
+corel 	World/Deutsch	best buy 	0.166667
+pregnant 	Society/Issues	pregnancy signs 	0.333333
+pregnant 	Health/Reproductive_Health	pregnancy signs 	0.076389
+pregnant 	Health/Conditions_and_Diseases	pregnancy signs 	0.076389
+pregnant 	Home/Family	pregnancy signs 	0.055556
+pregnant 	Health/Professions	pregnancy signs 	0.055556
+pregnant 	Home/Entertaining	pregnancy signs 	0.055556
+pregnant 	Health/Medicine	pregnancy signs 	0.055556
+pregnant 	Health/Child_Health	pregnancy signs 	0.020833
+pregnant 	Home/Cooking	pregnancy signs 	0.020833
+pregnant 	Health/Education	pregnancy signs 	0.020833
+pregnant 	Health/Weight_Loss	pregnancy signs 	0.020833
+pregnant 	Health/Women's_Health	pregnancy signs 	0.020833
+pregnant 	Health/Pharmacy	pregnancy signs 	0.020833
+pregnant 	Health/Nutrition	pregnancy signs 	0.020833
+pregnant 	Health/Dentistry	pregnancy signs 	0.020833
+pregnant 	Health/Specific_Substances	pregnancy signs 	0.020833
+pregnant 	Health/Mental_Health	pregnancy signs 	0.020833
+pregnant 	Recreation/Food	pregnancy signs 	0.020833
+pregnant 	Health/Public_Health_and_Safety	pregnancy signs 	0.020833
+pregnant 	Health/Addictions	pregnancy signs 	0.020833
+pregnant 	Health/Men's_Health	pregnancy signs 	0.020833
+american idol news 	Sports/Events	national weather service 	0.071429
+american idol news 	Computers/Multimedia	national weather service 	0.071429
+american idol news 	Business/Agriculture_and_Forestry	national weather service 	0.071429
+american idol news 	Science/Earth_Sciences	national weather service 	0.071429
+american idol news 	Arts/Literature	national weather service 	0.071429
+american idol news 	Sports/Track_and_Field	national weather service 	0.071429
+american idol news 	Sports/Tennis	national weather service 	0.071429
+american idol news 	Arts/Performing_Arts	national weather service 	0.071429
+american idol news 	Regional/North_America	national weather service 	0.071429
+american idol news 	Sports/Football	national weather service 	0.071429
+american idol news 	Society/Holidays	national weather service 	0.071429
+american idol news 	Games/Video_Games	national weather service 	0.071429
+american idol news 	Arts/People	national weather service 	0.071429
+american idol news 	Arts/Television	national weather service 	0.071429
+bok com 	Regional/North_America	wamu 	1.000000
+kentucky miners 	Regional/North_America	william jefferson 	0.500000
+kentucky miners 	Arts/Television	william jefferson 	0.500000
+abcnews 	Computers/Internet	ajc com 	0.032258
+abcnews 	News/Media	ajc com 	0.032258
+abcnews 	Society/Issues	ajc com 	0.032258
+abcnews 	Science/News_and_Media	ajc com 	0.032258
+abcnews 	Society/Religion_and_Spirituality	ajc com 	0.032258
+abcnews 	Science/Social_Sciences	ajc com 	0.032258
+abcnews 	Science/Earth_Sciences	ajc com 	0.032258
+abcnews 	News/Internet_Broadcasts	ajc com 	0.032258
+abcnews 	Science/Biology	ajc com 	0.032258
+abcnews 	Reference/Libraries	ajc com 	0.032258
+abcnews 	Home/Personal_Finance	ajc com 	0.032258
+abcnews 	Business/News_and_Media	ajc com 	0.032258
+abcnews 	Society/History	ajc com 	0.032258
+abcnews 	Health/Addictions	ajc com 	0.032258
+abcnews 	Health/Alternative	ajc com 	0.032258
+abcnews 	Recreation/Drugs	ajc com 	0.032258
+abcnews 	News/Chats_and_Forums	ajc com 	0.032258
+abcnews 	Regional/Middle_East	ajc com 	0.032258
+abcnews 	Regional/North_America	ajc com 	0.032258
+abcnews 	Society/Crime	ajc com 	0.032258
+abcnews 	Reference/Education	ajc com 	0.032258
+abcnews 	Health/Conditions_and_Diseases	ajc com 	0.032258
+abcnews 	News/Breaking_News	ajc com 	0.032258
+abcnews 	Society/Military	ajc com 	0.032258
+abcnews 	Health/Mental_Health	ajc com 	0.032258
+abcnews 	Arts/Entertainment	ajc com 	0.032258
+abcnews 	Arts/People	ajc com 	0.032258
+abcnews 	Arts/Movies	ajc com 	0.032258
+abcnews 	News/Alternative	ajc com 	0.032258
+abcnews 	Arts/Television	ajc com 	0.032258
+abcnews 	Sports/Skating	ajc com 	0.032258
+billboard 	Arts/Music	newsday 	1.000000
+kentucky derby 	Sports/Equestrian	nbc sports 	0.500000
+kentucky derby 	Regional/North_America	nbc sports 	0.500000
+monster com 	Business/Employment	espn com 	1.000000
+monster com 	Regional/North_America	espn com 	1.000000
+cheapest gas 	Reference/Maps	ktla 	0.370370
+cheapest gas 	Home/Consumer_Information	ktla 	0.333333
+cheapest gas 	Regional/Africa	ktla 	0.037037
+cheapest gas 	Computers/Software	ktla 	0.037037
+cheapest gas 	World/Lietuvių	ktla 	0.037037
+cheapest gas 	Regional/Europe	ktla 	0.037037
+cheapest gas 	World/Russian	ktla 	0.037037
+cheapest gas 	Regional/North_America	ktla 	0.037037
+cheapest gas 	World/Italiano	ktla 	0.037037
+cheapest gas 	World/Català	ktla 	0.037037
+old navy com 	Shopping/Clothing	e bay 	1.000000
+sponge bob 	Arts/Animation	www disney chanel com 	0.250000
+sponge bob 	Games/Video_Games	www disney chanel com 	0.250000
+sponge bob 	Arts/People	www disney chanel com 	0.250000
+sponge bob 	Arts/Television	www disney chanel com 	0.250000
+san diego sea world 	Science/Biology	san diego wild animal park 	0.500000
+san diego sea world 	Regional/North_America	san diego wild animal park 	0.500000
+sangria recipe 	Home/Cooking	nova southeastern university 	1.000000
+stein mart 	Business/Retail_Trade	walmart 	2.000000
+wikipedia 	Home/Cooking	fanfiction net 	0.010256
+wikipedia 	Computers/Graphics	fanfiction net 	0.010256
+wikipedia 	Regional/South_America	fanfiction net 	0.010256
+wikipedia 	Business/Cooperatives	fanfiction net 	0.010256
+wikipedia 	Society/Relationships	fanfiction net 	0.010256
+wikipedia 	Games/Party_Games	fanfiction net 	0.010256
+wikipedia 	Sports/Events	fanfiction net 	0.010256
+wikipedia 	Health/Pharmacy	fanfiction net 	0.010256
+wikipedia 	Arts/Awards	fanfiction net 	0.010256
+wikipedia 	Sports/Basketball	fanfiction net 	0.010256
+wikipedia 	Sports/Motorsports	fanfiction net 	0.010256
+wikipedia 	Computers/Bulletin_Board_Systems	fanfiction net 	0.010256
+wikipedia 	Computers/Internet	fanfiction net 	0.010256
+wikipedia 	Sports/Cue_Sports	fanfiction net 	0.010256
+wikipedia 	Sports/Wrestling	fanfiction net 	0.010256
+wikipedia 	News/Media	fanfiction net 	0.010256
+wikipedia 	Computers/Speech_Technology	fanfiction net 	0.010256
+wikipedia 	Society/Issues	fanfiction net 	0.010256
+wikipedia 	Computers/Multimedia	fanfiction net 	0.010256
+wikipedia 	Society/Religion_and_Spirituality	fanfiction net 	0.010256
+wikipedia 	Arts/Crafts	fanfiction net 	0.010256
+wikipedia 	Society/Government	fanfiction net 	0.010256
+wikipedia 	Science/Social_Sciences	fanfiction net 	0.010256
+wikipedia 	Society/Philosophy	fanfiction net 	0.010256
+wikipedia 	Arts/Art_History	fanfiction net 	0.010256
+wikipedia 	Arts/Classical_Studies	fanfiction net 	0.010256
+wikipedia 	Science/Math	fanfiction net 	0.010256
+wikipedia 	Science/Earth_Sciences	fanfiction net 	0.010256
+wikipedia 	Computers/Hardware	fanfiction net 	0.010256
+wikipedia 	Computers/Computer_Science	fanfiction net 	0.010256
+wikipedia 	Sports/Golf	fanfiction net 	0.010256
+wikipedia 	Science/Methods_and_Techniques	fanfiction net 	0.010256
+wikipedia 	Society/Subcultures	fanfiction net 	0.010256
+wikipedia 	Science/Reference	fanfiction net 	0.010256
+wikipedia 	Reference/Maps	fanfiction net 	0.010256
+wikipedia 	Business/Financial_Services	fanfiction net 	0.010256
+wikipedia 	Science/Physics	fanfiction net 	0.010256
+wikipedia 	Computers/Robotics	fanfiction net 	0.010256
+wikipedia 	Science/Anomalies_and_Alternative_Science	fanfiction net 	0.010256
+wikipedia 	Arts/Music	fanfiction net 	0.010256
+wikipedia 	Science/Biology	fanfiction net 	0.010256
+wikipedia 	Sports/Cycling	fanfiction net 	0.010256
+wikipedia 	Arts/Literature	fanfiction net 	0.010256
+wikipedia 	Games/Coin-Op	fanfiction net 	0.010256
+wikipedia 	Business/Retail_Trade	fanfiction net 	0.010256
+wikipedia 	Arts/Animation	fanfiction net 	0.010256
+wikipedia 	Computers/Security	fanfiction net 	0.010256
+wikipedia 	News/Analysis_and_Opinion	fanfiction net 	0.010256
+wikipedia 	Business/Industrial_Goods_and_Services	fanfiction net 	0.010256
+wikipedia 	Computers/Usenet	fanfiction net 	0.010256
+wikipedia 	Society/Politics	fanfiction net 	0.010256
+wikipedia 	Sports/Korfball	fanfiction net 	0.010256
+wikipedia 	Recreation/Outdoors	fanfiction net 	0.010256
+wikipedia 	Recreation/Food	fanfiction net 	0.010256
+wikipedia 	Computers/Data_Formats	fanfiction net 	0.010256
+wikipedia 	Sports/Track_and_Field	fanfiction net 	0.010256
+wikipedia 	Sports/Laser_Games	fanfiction net 	0.010256
+wikipedia 	Business/Arts_and_Entertainment	fanfiction net 	0.010256
+wikipedia 	Sports/Boxing	fanfiction net 	0.010256
+wikipedia 	Sports/Martial_Arts	fanfiction net 	0.010256
+wikipedia 	Business/Employment	fanfiction net 	0.010256
+wikipedia 	Society/Sexuality	fanfiction net 	0.010256
+wikipedia 	Regional/Central_America	fanfiction net 	0.010256
+wikipedia 	Arts/Illustration	fanfiction net 	0.010256
+wikipedia 	Recreation/Scouting	fanfiction net 	0.010256
+wikipedia 	Computers/CAD_and_CAM	fanfiction net 	0.010256
+wikipedia 	Society/Organizations	fanfiction net 	0.010256
+wikipedia 	Society/Ethnicity	fanfiction net 	0.010256
+wikipedia 	Reference/Libraries	fanfiction net 	0.010256
+wikipedia 	Games/Hand_Games	fanfiction net 	0.010256
+wikipedia 	Recreation/Travel	fanfiction net 	0.010256
+wikipedia 	Home/Personal_Finance	fanfiction net 	0.010256
+wikipedia 	Recreation/Humor	fanfiction net 	0.010256
+wikipedia 	Business/Hospitality	fanfiction net 	0.010256
+wikipedia 	Sports/Kabbadi	fanfiction net 	0.010256
+wikipedia 	Games/Gambling	fanfiction net 	0.010256
+wikipedia 	Society/History	fanfiction net 	0.010256
+wikipedia 	Health/Specific_Substances	fanfiction net 	0.010256
+wikipedia 	Society/Lifestyle_Choices	fanfiction net 	0.010256
+wikipedia 	Computers/Algorithms	fanfiction net 	0.010256
+wikipedia 	News/Newspapers	fanfiction net 	0.010256
+wikipedia 	Sports/Tennis	fanfiction net 	0.010256
+wikipedia 	Business/Food_and_Related_Products	fanfiction net 	0.010256
+wikipedia 	Computers/Companies	fanfiction net 	0.010256
+wikipedia 	Health/Addictions	fanfiction net 	0.010256
+wikipedia 	Sports/Cricket	fanfiction net 	0.010256
+wikipedia 	Science/Agriculture	fanfiction net 	0.010256
+wikipedia 	Health/Animal	fanfiction net 	0.010256
+wikipedia 	Science/Chemistry	fanfiction net 	0.010256
+wikipedia 	Business/Business_Services	fanfiction net 	0.010256
+wikipedia 	Business/Healthcare	fanfiction net 	0.010256
+wikipedia 	Health/Alternative	fanfiction net 	0.010256
+wikipedia 	Society/Death	fanfiction net 	0.010256
+wikipedia 	Health/Men's_Health	fanfiction net 	0.010256
+wikipedia 	Games/Trading_Card_Games	fanfiction net 	0.010256
+wikipedia 	Computers/Education	fanfiction net 	0.010256
+wikipedia 	Arts/Performing_Arts	fanfiction net 	0.010256
+wikipedia 	Arts/Photography	fanfiction net 	0.010256
+wikipedia 	Business/Marketing_and_Advertising	fanfiction net 	0.010256
+wikipedia 	Recreation/Drugs	fanfiction net 	0.010256
+wikipedia 	Computers/Systems	fanfiction net 	0.010256
+wikipedia 	Regional/Asia	fanfiction net 	0.010256
+wikipedia 	Society/Future	fanfiction net 	0.010256
+wikipedia 	Computers/Programming	fanfiction net 	0.010256
+wikipedia 	Computers/E-Books	fanfiction net 	0.010256
+wikipedia 	Health/Child_Health	fanfiction net 	0.010256
+wikipedia 	Computers/History	fanfiction net 	0.010256
+wikipedia 	Games/Miniatures	fanfiction net 	0.010256
+wikipedia 	Regional/Middle_East	fanfiction net 	0.010256
+wikipedia 	Health/Medicine	fanfiction net 	0.010256
+wikipedia 	Regional/Caribbean	fanfiction net 	0.010256
+wikipedia 	Sports/Informal_Sports	fanfiction net 	0.010256
+wikipedia 	Sports/Croquet	fanfiction net 	0.010256
+wikipedia 	Games/Card_Games	fanfiction net 	0.010256
+wikipedia 	Computers/Emulators	fanfiction net 	0.010256
+wikipedia 	Sports/Equestrian	fanfiction net 	0.010256
+wikipedia 	Regional/Europe	fanfiction net 	0.010256
+wikipedia 	Regional/North_America	fanfiction net 	0.010256
+wikipedia 	Sports/Soccer	fanfiction net 	0.010256
+wikipedia 	Sports/Football	fanfiction net 	0.010256
+wikipedia 	Sports/Extreme_Sports	fanfiction net 	0.010256
+wikipedia 	Society/Crime	fanfiction net 	0.010256
+wikipedia 	Society/Paranormal	fanfiction net 	0.010256
+wikipedia 	Health/Senses	fanfiction net 	0.010256
+wikipedia 	Recreation/Models	fanfiction net 	0.010256
+wikipedia 	Arts/Radio	fanfiction net 	0.010256
+wikipedia 	Reference/Education	fanfiction net 	0.010256
+wikipedia 	Business/Transportation_and_Logistics	fanfiction net 	0.010256
+wikipedia 	Computers/Mobile_Computing	fanfiction net 	0.010256
+wikipedia 	Regional/Africa	fanfiction net 	0.010256
+wikipedia 	Reference/Knowledge_Management	fanfiction net 	0.010256
+wikipedia 	Games/Conventions	fanfiction net 	0.010256
+wikipedia 	Computers/Artificial_Life	fanfiction net 	0.010256
+wikipedia 	Health/Conditions_and_Diseases	fanfiction net 	0.010256
+wikipedia 	Business/Investing	fanfiction net 	0.010256
+wikipedia 	Computers/Open_Source	fanfiction net 	0.010256
+wikipedia 	Home/Gardening	fanfiction net 	0.010256
+wikipedia 	Recreation/Pets	fanfiction net 	0.010256
+wikipedia 	Society/Support_Groups	fanfiction net 	0.010256
+wikipedia 	Games/Puzzles	fanfiction net 	0.010256
+wikipedia 	Recreation/Locks	fanfiction net 	0.010256
+wikipedia 	Recreation/Autos	fanfiction net 	0.010256
+wikipedia 	Sports/Winter_Sports	fanfiction net 	0.010256
+wikipedia 	Arts/Genres	fanfiction net 	0.010256
+wikipedia 	Sports/Baseball	fanfiction net 	0.010256
+wikipedia 	Computers/Artificial_Intelligence	fanfiction net 	0.010256
+wikipedia 	Home/Consumer_Information	fanfiction net 	0.010256
+wikipedia 	Society/Holidays	fanfiction net 	0.010256
+wikipedia 	Arts/Writers_Resources	fanfiction net 	0.010256
+wikipedia 	Games/Roleplaying	fanfiction net 	0.010256
+wikipedia 	Computers/Virtual_Reality	fanfiction net 	0.010256
+wikipedia 	Arts/Design	fanfiction net 	0.010256
+wikipedia 	Games/Yard_Deck_and_Table_Games	fanfiction net 	0.010256
+wikipedia 	Home/Homeowners	fanfiction net 	0.010256
+wikipedia 	Health/Nutrition	fanfiction net 	0.010256
+wikipedia 	Games/Video_Games	fanfiction net 	0.010256
+wikipedia 	Science/Environment	fanfiction net 	0.010256
+wikipedia 	Society/Gay_Lesbian_and_Bisexual	fanfiction net 	0.010256
+wikipedia 	Regional/Oceania	fanfiction net 	0.010256
+wikipedia 	Health/Women's_Health	fanfiction net 	0.010256
+wikipedia 	Computers/Software	fanfiction net 	0.010256
+wikipedia 	Arts/Architecture	fanfiction net 	0.010256
+wikipedia 	Society/Military	fanfiction net 	0.010256
+wikipedia 	Health/Mental_Health	fanfiction net 	0.010256
+wikipedia 	Sports/Rounders	fanfiction net 	0.010256
+wikipedia 	Science/Events	fanfiction net 	0.010256
+wikipedia 	World/Español	fanfiction net 	0.010256
+wikipedia 	Recreation/Collecting	fanfiction net 	0.010256
+wikipedia 	Science/Science_in_Society	fanfiction net 	0.010256
+wikipedia 	Arts/People	fanfiction net 	0.010256
+wikipedia 	Sports/Gaelic	fanfiction net 	0.010256
+wikipedia 	Arts/Graphic_Design	fanfiction net 	0.010256
+wikipedia 	Arts/Movies	fanfiction net 	0.010256
+wikipedia 	Reference/Time	fanfiction net 	0.010256
+wikipedia 	Arts/Television	fanfiction net 	0.010256
+wikipedia 	Games/Online	fanfiction net 	0.010256
+wikipedia 	Arts/Comics	fanfiction net 	0.010256
+wikipedia 	Science/Astronomy	fanfiction net 	0.010256
+wikipedia 	World/Deutsch	fanfiction net 	0.010256
+wikipedia 	Games/Paper_and_Pencil	fanfiction net 	0.010256
+wikipedia 	Sports/Hockey	fanfiction net 	0.010256
+wikipedia 	Games/Board_Games	fanfiction net 	0.010256
+wikipedia 	Sports/Pesäpallo	fanfiction net 	0.010256
+wikipedia 	Arts/Visual_Arts	fanfiction net 	0.010256
+wikipedia 	Sports/Skating	fanfiction net 	0.010256
+wikipedia 	Society/Activism	fanfiction net 	0.010256
+wikipedia 	Games/Tile_Games	fanfiction net 	0.010256
+wikipedia 	Computers/Desktop_Publishing	fanfiction net 	0.010256
+wikipedia 	Reference/Flags	fanfiction net 	0.010256
+wikipedia 	Society/Folklore	fanfiction net 	0.010256
+wikipedia 	Society/Law	fanfiction net 	0.010256
+wikipedia 	Society/People	fanfiction net 	0.010256
+wikipedia 	Health/Reproductive_Health	fanfiction net 	0.010256
+wikipedia 	Sports/Water_Sports	fanfiction net 	0.010256
+wikipedia 	Science/Technology	fanfiction net 	0.010256
+www cnn com 	Home/Cooking	www wral com 	0.037975
+www cnn com 	Society/Relationships	www wral com 	0.037975
+www cnn com 	Health/Pharmacy	www wral com 	0.037975
+www cnn com 	Sports/Basketball	www wral com 	0.037975
+www cnn com 	Computers/Internet	www wral com 	0.037975
+www cnn com 	News/Media	www wral com 	0.037975
+www cnn com 	Society/Issues	www wral com 	0.037975
+www cnn com 	Society/Religion_and_Spirituality	www wral com 	0.037975
+www cnn com 	Health/Occupational_Health_and_Safety	www wral com 	0.037975
+www cnn com 	Health/Fitness	www wral com 	0.037975
+www cnn com 	Health/News_and_Media	www wral com 	0.037975
+www cnn com 	Society/Government	www wral com 	0.037975
+www cnn com 	Science/Social_Sciences	www wral com 	0.037975
+www cnn com 	Society/Philosophy	www wral com 	0.037975
+www cnn com 	Science/Earth_Sciences	www wral com 	0.037975
+www cnn com 	Computers/Hardware	www wral com 	0.037975
+www cnn com 	Computers/Robotics	www wral com 	0.037975
+www cnn com 	News/Internet_Broadcasts	www wral com 	0.037975
+www cnn com 	Arts/Music	www wral com 	0.037975
+www cnn com 	Science/Biology	www wral com 	0.037975
+www cnn com 	Society/Work	www wral com 	0.037975
+www cnn com 	Arts/Literature	www wral com 	0.037975
+www cnn com 	Arts/Animation	www wral com 	0.037975
+www cnn com 	Computers/Security	www wral com 	0.037975
+www cnn com 	Society/Politics	www wral com 	0.037975
+www cnn com 	Recreation/Food	www wral com 	0.037975
+www cnn com 	News/Extended_Coverage	www wral com 	0.037975
+www cnn com 	Society/Ethnicity	www wral com 	0.037975
+www cnn com 	Reference/Libraries	www wral com 	0.037975
+www cnn com 	Society/History	www wral com 	0.037975
+www cnn com 	Health/Specific_Substances	www wral com 	0.037975
+www cnn com 	Health/Alternative	www wral com 	0.037975
+www cnn com 	Society/Death	www wral com 	0.037975
+www cnn com 	Health/Men's_Health	www wral com 	0.037975
+www cnn com 	Arts/Performing_Arts	www wral com 	0.037975
+www cnn com 	Recreation/Drugs	www wral com 	0.037975
+www cnn com 	Computers/Systems	www wral com 	0.037975
+www cnn com 	Regional/Asia	www wral com 	0.037975
+www cnn com 	Computers/Programming	www wral com 	0.037975
+www cnn com 	Computers/E-Books	www wral com 	0.037975
+www cnn com 	Health/Child_Health	www wral com 	0.037975
+www cnn com 	Regional/Middle_East	www wral com 	0.037975
+www cnn com 	Regional/Europe	www wral com 	0.037975
+www cnn com 	Regional/North_America	www wral com 	0.037975
+www cnn com 	Sports/Soccer	www wral com 	0.037975
+www cnn com 	Home/Family	www wral com 	0.037975
+www cnn com 	Society/Crime	www wral com 	0.037975
+www cnn com 	Reference/Education	www wral com 	0.037975
+www cnn com 	Regional/Africa	www wral com 	0.037975
+www cnn com 	Reference/Knowledge_Management	www wral com 	0.037975
+www cnn com 	Health/Conditions_and_Diseases	www wral com 	0.037975
+www cnn com 	Computers/Open_Source	www wral com 	0.037975
+www cnn com 	Recreation/Pets	www wral com 	0.037975
+www cnn com 	News/Breaking_News	www wral com 	0.037975
+www cnn com 	Computers/Artificial_Intelligence	www wral com 	0.037975
+www cnn com 	Society/Holidays	www wral com 	0.037975
+www cnn com 	Games/Roleplaying	www wral com 	0.037975
+www cnn com 	Health/Nutrition	www wral com 	0.037975
+www cnn com 	Games/Video_Games	www wral com 	0.037975
+www cnn com 	Science/Environment	www wral com 	0.037975
+www cnn com 	Regional/Oceania	www wral com 	0.037975
+www cnn com 	Health/Women's_Health	www wral com 	0.037975
+www cnn com 	Computers/Software	www wral com 	0.037975
+www cnn com 	Arts/Architecture	www wral com 	0.037975
+www cnn com 	Society/Military	www wral com 	0.037975
+www cnn com 	Health/Mental_Health	www wral com 	0.037975
+www cnn com 	Arts/Entertainment	www wral com 	0.037975
+www cnn com 	Science/Science_in_Society	www wral com 	0.037975
+www cnn com 	Arts/People	www wral com 	0.037975
+www cnn com 	Arts/Movies	www wral com 	0.037975
+www cnn com 	Arts/Television	www wral com 	0.037975
+www cnn com 	Science/Astronomy	www wral com 	0.037975
+www cnn com 	Games/Board_Games	www wral com 	0.037975
+www cnn com 	Society/Activism	www wral com 	0.037975
+www cnn com 	Reference/Almanacs	www wral com 	0.037975
+www cnn com 	Society/Folklore	www wral com 	0.037975
+www cnn com 	Society/People	www wral com 	0.037975
+www cnn com 	Sports/Water_Sports	www wral com 	0.037975
+www cnn com 	Science/Technology	www wral com 	0.037975
+stairway to heaven backwards 	World/Español	bj com 	0.015069
+stairway to heaven backwards 	Games/Video_Games	bj com 	0.015069
+stairway to heaven backwards 	Computers/Systems	bj com 	0.015069
+stairway to heaven backwards 	Computers/Internet	bj com 	0.015069
+stairway to heaven backwards 	Science/Biology	bj com 	0.015069
+stairway to heaven backwards 	World/Deutsch	bj com 	0.015069
+stairway to heaven backwards 	Society/Religion_and_Spirituality	bj com 	0.015069
+stairway to heaven backwards 	Science/Social_Sciences	bj com 	0.015069
+stairway to heaven backwards 	Science/Technology	bj com 	0.015069
+stairway to heaven backwards 	Computers/Robotics	bj com 	0.015069
+stairway to heaven backwards 	World/Français	bj com 	0.013360
+stairway to heaven backwards 	Games/Roleplaying	bj com 	0.009117
+stairway to heaven backwards 	Computers/Mobile_Computing	bj com 	0.009117
+stairway to heaven backwards 	Games/Online	bj com 	0.009117
+stairway to heaven backwards 	Computers/Software	bj com 	0.009117
+stairway to heaven backwards 	Computers/Security	bj com 	0.009117
+stairway to heaven backwards 	Games/Board_Games	bj com 	0.009117
+stairway to heaven backwards 	Society/Politics	bj com 	0.009117
+stairway to heaven backwards 	Computers/Multimedia	bj com 	0.009117
+stairway to heaven backwards 	Computers/Data_Formats	bj com 	0.009117
+stairway to heaven backwards 	Computers/Usenet	bj com 	0.009117
+stairway to heaven backwards 	Science/Astronomy	bj com 	0.009117
+stairway to heaven backwards 	Recreation/Models	bj com 	0.009117
+stairway to heaven backwards 	Science/Math	bj com 	0.009117
+stairway to heaven backwards 	Computers/Programming	bj com 	0.009117
+stairway to heaven backwards 	Computers/Emulators	bj com 	0.009117
+stairway to heaven backwards 	Arts/Visual_Arts	bj com 	0.009117
+stairway to heaven backwards 	Reference/Libraries	bj com 	0.009117
+stairway to heaven backwards 	Computers/Bulletin_Board_Systems	bj com 	0.009117
+stairway to heaven backwards 	Computers/Artificial_Life	bj com 	0.009117
+stairway to heaven backwards 	Science/Earth_Sciences	bj com 	0.009117
+stairway to heaven backwards 	Computers/Artificial_Intelligence	bj com 	0.009117
+stairway to heaven backwards 	Computers/Hardware	bj com 	0.009117
+stairway to heaven backwards 	Home/Personal_Finance	bj com 	0.009117
+stairway to heaven backwards 	Computers/Computer_Science	bj com 	0.009117
+stairway to heaven backwards 	Games/Puzzles	bj com 	0.009117
+stairway to heaven backwards 	Reference/Maps	bj com 	0.009117
+stairway to heaven backwards 	Computers/Open_Source	bj com 	0.009117
+stairway to heaven backwards 	Arts/Music	bj com 	0.007662
+stairway to heaven backwards 	Arts/Literature	bj com 	0.007662
+stairway to heaven backwards 	Home/Homeowners	bj com 	0.007662
+stairway to heaven backwards 	Society/Gay_Lesbian_and_Bisexual	bj com 	0.007662
+stairway to heaven backwards 	Sports/Events	bj com 	0.007662
+stairway to heaven backwards 	Arts/Performing_Arts	bj com 	0.007662
+stairway to heaven backwards 	Science/Environment	bj com 	0.007662
+stairway to heaven backwards 	Regional/Asia	bj com 	0.007662
+stairway to heaven backwards 	Arts/Animation	bj com 	0.007662
+stairway to heaven backwards 	Regional/Middle_East	bj com 	0.007662
+stairway to heaven backwards 	Society/Issues	bj com 	0.007662
+stairway to heaven backwards 	Recreation/Food	bj com 	0.007662
+stairway to heaven backwards 	Regional/Africa	bj com 	0.007662
+stairway to heaven backwards 	Arts/People	bj com 	0.007662
+stairway to heaven backwards 	Regional/North_America	bj com 	0.007662
+stairway to heaven backwards 	Arts/Crafts	bj com 	0.007662
+stairway to heaven backwards 	Sports/Soccer	bj com 	0.007662
+stairway to heaven backwards 	Arts/Movies	bj com 	0.007662
+stairway to heaven backwards 	Arts/Television	bj com 	0.007662
+stairway to heaven backwards 	Society/Government	bj com 	0.007662
+stairway to heaven backwards 	Recreation/Scouting	bj com 	0.007662
+stairway to heaven backwards 	Sports/Hockey	bj com 	0.007662
+stairway to heaven backwards 	Reference/Education	bj com 	0.007662
+stairway to heaven backwards 	Regional/Europe	bj com 	0.007662
+stairway to heaven backwards 	Regional/Oceania	bj com 	0.007662
+stairway to heaven backwards 	Sports/Kabbadi	bj com 	0.007662
+stairway to heaven backwards 	Health/Conditions_and_Diseases	bj com 	0.007662
+stairway to heaven backwards 	Recreation/Autos	bj com 	0.007662
+stairway to heaven backwards 	Society/History	bj com 	0.007662
+stairway to heaven backwards 	Society/People	bj com 	0.007662
+stairway to heaven backwards 	Shopping/Sports	bj com 	0.007407
+stairway to heaven backwards 	Recreation/Radio	bj com 	0.007407
+stairway to heaven backwards 	World/Türkçe	bj com 	0.007407
+stairway to heaven backwards 	Sports/Software	bj com 	0.007407
+stairway to heaven backwards 	Computers/Parallel_Computing	bj com 	0.007407
+stairway to heaven backwards 	Society/Genealogy	bj com 	0.007407
+stairway to heaven backwards 	Computers/Data_Communications	bj com 	0.007407
+stairway to heaven backwards 	World/Català	bj com 	0.005952
+stairway to heaven backwards 	World/Dansk	bj com 	0.005952
+stairway to heaven backwards 	World/Suomi	bj com 	0.005952
+stairway to heaven backwards 	World/Česky	bj com 	0.005952
+stairway to heaven backwards 	World/Eesti	bj com 	0.005952
+stairway to heaven backwards 	World/Svenska	bj com 	0.005952
+stairway to heaven backwards 	Recreation/Roads_and_Highways	bj com 	0.005952
+stairway to heaven backwards 	World/Lietuvių	bj com 	0.005952
+stairway to heaven backwards 	World/Russian	bj com 	0.005952
+stairway to heaven backwards 	World/Italiano	bj com 	0.005952
+stairway to heaven backwards 	World/Armenian	bj com 	0.005952
+stairway to heaven backwards 	World/Japanese	bj com 	0.005952
+stairway to heaven backwards 	Arts/Video	bj com 	0.005952
+stairway to heaven backwards 	World/Esperanto	bj com 	0.005952
+stairway to heaven backwards 	World/Nederlands	bj com 	0.005952
+stairway to heaven backwards 	Home/Gardening	bj com 	0.001709
+stairway to heaven backwards 	News/Newspapers	bj com 	0.001709
+stairway to heaven backwards 	Home/Cooking	bj com 	0.001709
+stairway to heaven backwards 	Business/Food_and_Related_Products	bj com 	0.001709
+stairway to heaven backwards 	Computers/Virtual_Reality	bj com 	0.001709
+stairway to heaven backwards 	Computers/Companies	bj com 	0.001709
+stairway to heaven backwards 	Computers/Graphics	bj com 	0.001709
+stairway to heaven backwards 	Sports/Cycling	bj com 	0.001709
+stairway to heaven backwards 	Games/Coin-Op	bj com 	0.001709
+stairway to heaven backwards 	Business/Transportation_and_Logistics	bj com 	0.001709
+stairway to heaven backwards 	News/Media	bj com 	0.001709
+stairway to heaven backwards 	Sports/Cricket	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Collecting	bj com 	0.001709
+stairway to heaven backwards 	Regional/South_America	bj com 	0.001709
+stairway to heaven backwards 	Sports/Skating	bj com 	0.001709
+stairway to heaven backwards 	Science/Agriculture	bj com 	0.001709
+stairway to heaven backwards 	Health/Nutrition	bj com 	0.001709
+stairway to heaven backwards 	Business/Cooperatives	bj com 	0.001709
+stairway to heaven backwards 	Health/Animal	bj com 	0.001709
+stairway to heaven backwards 	Society/Relationships	bj com 	0.001709
+stairway to heaven backwards 	Science/Chemistry	bj com 	0.001709
+stairway to heaven backwards 	Business/Business_Services	bj com 	0.001709
+stairway to heaven backwards 	Computers/CAD_and_CAM	bj com 	0.001709
+stairway to heaven backwards 	Games/Party_Games	bj com 	0.001709
+stairway to heaven backwards 	Business/Healthcare	bj com 	0.001709
+stairway to heaven backwards 	Health/Alternative	bj com 	0.001709
+stairway to heaven backwards 	Society/Death	bj com 	0.001709
+stairway to heaven backwards 	Health/Men's_Health	bj com 	0.001709
+stairway to heaven backwards 	Business/Retail_Trade	bj com 	0.001709
+stairway to heaven backwards 	Games/Trading_Card_Games	bj com 	0.001709
+stairway to heaven backwards 	Computers/Education	bj com 	0.001709
+stairway to heaven backwards 	Arts/Architecture	bj com 	0.001709
+stairway to heaven backwards 	Arts/Photography	bj com 	0.001709
+stairway to heaven backwards 	Business/Marketing_and_Advertising	bj com 	0.001709
+stairway to heaven backwards 	Health/Mental_Health	bj com 	0.001709
+stairway to heaven backwards 	Health/Pharmacy	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Drugs	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Locks	bj com 	0.001709
+stairway to heaven backwards 	Arts/Writers_Resources	bj com 	0.001709
+stairway to heaven backwards 	Sports/Basketball	bj com 	0.001709
+stairway to heaven backwards 	Society/Future	bj com 	0.001709
+stairway to heaven backwards 	Sports/Football	bj com 	0.001709
+stairway to heaven backwards 	Sports/Motorsports	bj com 	0.001709
+stairway to heaven backwards 	News/Analysis_and_Opinion	bj com 	0.001709
+stairway to heaven backwards 	Arts/Radio	bj com 	0.001709
+stairway to heaven backwards 	Computers/E-Books	bj com 	0.001709
+stairway to heaven backwards 	Business/Hospitality	bj com 	0.001709
+stairway to heaven backwards 	Health/Child_Health	bj com 	0.001709
+stairway to heaven backwards 	Computers/History	bj com 	0.001709
+stairway to heaven backwards 	Sports/Tennis	bj com 	0.001709
+stairway to heaven backwards 	Games/Miniatures	bj com 	0.001709
+stairway to heaven backwards 	Sports/Cue_Sports	bj com 	0.001709
+stairway to heaven backwards 	Sports/Wrestling	bj com 	0.001709
+stairway to heaven backwards 	Health/Addictions	bj com 	0.001709
+stairway to heaven backwards 	Computers/Speech_Technology	bj com 	0.001709
+stairway to heaven backwards 	Business/Industrial_Goods_and_Services	bj com 	0.001709
+stairway to heaven backwards 	Sports/Korfball	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Outdoors	bj com 	0.001709
+stairway to heaven backwards 	Health/Medicine	bj com 	0.001709
+stairway to heaven backwards 	Regional/Caribbean	bj com 	0.001709
+stairway to heaven backwards 	Sports/Informal_Sports	bj com 	0.001709
+stairway to heaven backwards 	Sports/Croquet	bj com 	0.001709
+stairway to heaven backwards 	Games/Card_Games	bj com 	0.001709
+stairway to heaven backwards 	Sports/Track_and_Field	bj com 	0.001709
+stairway to heaven backwards 	Sports/Equestrian	bj com 	0.001709
+stairway to heaven backwards 	Sports/Laser_Games	bj com 	0.001709
+stairway to heaven backwards 	Business/Arts_and_Entertainment	bj com 	0.001709
+stairway to heaven backwards 	Society/Folklore	bj com 	0.001709
+stairway to heaven backwards 	Sports/Gaelic	bj com 	0.001709
+stairway to heaven backwards 	Arts/Graphic_Design	bj com 	0.001709
+stairway to heaven backwards 	Sports/Boxing	bj com 	0.001709
+stairway to heaven backwards 	Science/Science_in_Society	bj com 	0.001709
+stairway to heaven backwards 	Society/Crime	bj com 	0.001709
+stairway to heaven backwards 	Sports/Martial_Arts	bj com 	0.001709
+stairway to heaven backwards 	Reference/Time	bj com 	0.001709
+stairway to heaven backwards 	Business/Employment	bj com 	0.001709
+stairway to heaven backwards 	Arts/Design	bj com 	0.001709
+stairway to heaven backwards 	Science/Events	bj com 	0.001709
+stairway to heaven backwards 	Society/Law	bj com 	0.001709
+stairway to heaven backwards 	Sports/Extreme_Sports	bj com 	0.001709
+stairway to heaven backwards 	Society/Sexuality	bj com 	0.001709
+stairway to heaven backwards 	Society/Paranormal	bj com 	0.001709
+stairway to heaven backwards 	Regional/Central_America	bj com 	0.001709
+stairway to heaven backwards 	Society/Philosophy	bj com 	0.001709
+stairway to heaven backwards 	Arts/Illustration	bj com 	0.001709
+stairway to heaven backwards 	Arts/Art_History	bj com 	0.001709
+stairway to heaven backwards 	Arts/Comics	bj com 	0.001709
+stairway to heaven backwards 	Sports/Pesäpallo	bj com 	0.001709
+stairway to heaven backwards 	Health/Women's_Health	bj com 	0.001709
+stairway to heaven backwards 	Arts/Classical_Studies	bj com 	0.001709
+stairway to heaven backwards 	Arts/Awards	bj com 	0.001709
+stairway to heaven backwards 	Arts/Genres	bj com 	0.001709
+stairway to heaven backwards 	Society/Organizations	bj com 	0.001709
+stairway to heaven backwards 	Society/Ethnicity	bj com 	0.001709
+stairway to heaven backwards 	Games/Hand_Games	bj com 	0.001709
+stairway to heaven backwards 	Reference/Knowledge_Management	bj com 	0.001709
+stairway to heaven backwards 	Games/Tile_Games	bj com 	0.001709
+stairway to heaven backwards 	Games/Conventions	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Travel	bj com 	0.001709
+stairway to heaven backwards 	Business/Investing	bj com 	0.001709
+stairway to heaven backwards 	Sports/Baseball	bj com 	0.001709
+stairway to heaven backwards 	Sports/Golf	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Pets	bj com 	0.001709
+stairway to heaven backwards 	Health/Senses	bj com 	0.001709
+stairway to heaven backwards 	Recreation/Humor	bj com 	0.001709
+stairway to heaven backwards 	Society/Support_Groups	bj com 	0.001709
+stairway to heaven backwards 	Society/Military	bj com 	0.001709
+stairway to heaven backwards 	Science/Methods_and_Techniques	bj com 	0.001709
+stairway to heaven backwards 	Computers/Desktop_Publishing	bj com 	0.001709
+stairway to heaven backwards 	Society/Subcultures	bj com 	0.001709
+stairway to heaven backwards 	Science/Reference	bj com 	0.001709
+stairway to heaven backwards 	Games/Gambling	bj com 	0.001709
+stairway to heaven backwards 	Sports/Rounders	bj com 	0.001709
+stairway to heaven backwards 	Society/Activism	bj com 	0.001709
+stairway to heaven backwards 	Sports/Winter_Sports	bj com 	0.001709
+stairway to heaven backwards 	Health/Reproductive_Health	bj com 	0.001709
+stairway to heaven backwards 	Games/Paper_and_Pencil	bj com 	0.001709
+stairway to heaven backwards 	Games/Yard_Deck_and_Table_Games	bj com 	0.001709
+stairway to heaven backwards 	Business/Financial_Services	bj com 	0.001709
+stairway to heaven backwards 	Science/Physics	bj com 	0.001709
+stairway to heaven backwards 	Sports/Water_Sports	bj com 	0.001709
+stairway to heaven backwards 	Home/Consumer_Information	bj com 	0.001709
+stairway to heaven backwards 	Health/Specific_Substances	bj com 	0.001709
+stairway to heaven backwards 	Science/Anomalies_and_Alternative_Science	bj com 	0.001709
+stairway to heaven backwards 	Society/Lifestyle_Choices	bj com 	0.001709
+stairway to heaven backwards 	Reference/Flags	bj com 	0.001709
+stairway to heaven backwards 	Society/Holidays	bj com 	0.001709
+stairway to heaven backwards 	Computers/Algorithms	bj com 	0.001709
+chienworks 	Recreation/Humor	eb 	0.666667
+chienworks 	Computers/Internet	eb 	0.166667
+chienworks 	Computers/Software	eb 	0.166667
+landscape design 	Regional/North_America	mischa barton 	1.000000
+planters 	Business/Food_and_Related_Products	nabisco 	1.000000
+map of florida 	Regional/North_America	florida map 	1.000000
+semissourian 	News/Newspapers	washington post 	0.500000
+semissourian 	Regional/North_America	washington post 	0.500000
+family tree 	Regional/North_America	janesville gazette 	0.196154
+family tree 	Society/Genealogy	janesville gazette 	0.194444
+family tree 	Regional/Europe	janesville gazette 	0.112821
+family tree 	Society/Religion_and_Spirituality	janesville gazette 	0.085043
+family tree 	Reference/Dictionaries	janesville gazette 	0.083333
+family tree 	Home/Gardening	janesville gazette 	0.001709
+family tree 	Arts/Music	janesville gazette 	0.001709
+family tree 	News/Newspapers	janesville gazette 	0.001709
+family tree 	Home/Cooking	janesville gazette 	0.001709
+family tree 	World/Español	janesville gazette 	0.001709
+family tree 	Business/Food_and_Related_Products	janesville gazette 	0.001709
+family tree 	Games/Roleplaying	janesville gazette 	0.001709
+family tree 	Games/Trading_Card_Games	janesville gazette 	0.001709
+family tree 	Computers/Virtual_Reality	janesville gazette 	0.001709
+family tree 	Computers/Companies	janesville gazette 	0.001709
+family tree 	Computers/Graphics	janesville gazette 	0.001709
+family tree 	Sports/Cycling	janesville gazette 	0.001709
+family tree 	Arts/Literature	janesville gazette 	0.001709
+family tree 	Games/Coin-Op	janesville gazette 	0.001709
+family tree 	Business/Transportation_and_Logistics	janesville gazette 	0.001709
+family tree 	News/Media	janesville gazette 	0.001709
+family tree 	Sports/Cricket	janesville gazette 	0.001709
+family tree 	Recreation/Collecting	janesville gazette 	0.001709
+family tree 	Regional/South_America	janesville gazette 	0.001709
+family tree 	Home/Homeowners	janesville gazette 	0.001709
+family tree 	Sports/Skating	janesville gazette 	0.001709
+family tree 	Science/Agriculture	janesville gazette 	0.001709
+family tree 	Society/Gay_Lesbian_and_Bisexual	janesville gazette 	0.001709
+family tree 	Health/Nutrition	janesville gazette 	0.001709
+family tree 	Business/Cooperatives	janesville gazette 	0.001709
+family tree 	Health/Animal	janesville gazette 	0.001709
+family tree 	Society/Relationships	janesville gazette 	0.001709
+family tree 	Science/Chemistry	janesville gazette 	0.001709
+family tree 	Computers/Mobile_Computing	janesville gazette 	0.001709
+family tree 	Business/Business_Services	janesville gazette 	0.001709
+family tree 	Computers/CAD_and_CAM	janesville gazette 	0.001709
+family tree 	Games/Party_Games	janesville gazette 	0.001709
+family tree 	Sports/Events	janesville gazette 	0.001709
+family tree 	Business/Healthcare	janesville gazette 	0.001709
+family tree 	Games/Online	janesville gazette 	0.001709
+family tree 	Health/Alternative	janesville gazette 	0.001709
+family tree 	Society/Death	janesville gazette 	0.001709
+family tree 	Health/Men's_Health	janesville gazette 	0.001709
+family tree 	Business/Retail_Trade	janesville gazette 	0.001709
+family tree 	Computers/Education	janesville gazette 	0.001709
+family tree 	Arts/Performing_Arts	janesville gazette 	0.001709
+family tree 	Computers/Software	janesville gazette 	0.001709
+family tree 	Arts/Architecture	janesville gazette 	0.001709
+family tree 	Arts/Photography	janesville gazette 	0.001709
+family tree 	Business/Marketing_and_Advertising	janesville gazette 	0.001709
+family tree 	Health/Mental_Health	janesville gazette 	0.001709
+family tree 	Health/Pharmacy	janesville gazette 	0.001709
+family tree 	Games/Video_Games	janesville gazette 	0.001709
+family tree 	Recreation/Drugs	janesville gazette 	0.001709
+family tree 	Computers/Systems	janesville gazette 	0.001709
+family tree 	Science/Environment	janesville gazette 	0.001709
+family tree 	Recreation/Locks	janesville gazette 	0.001709
+family tree 	Arts/Writers_Resources	janesville gazette 	0.001709
+family tree 	Regional/Asia	janesville gazette 	0.001709
+family tree 	Arts/Animation	janesville gazette 	0.001709
+family tree 	Sports/Basketball	janesville gazette 	0.001709
+family tree 	Computers/Security	janesville gazette 	0.001709
+family tree 	Society/Future	janesville gazette 	0.001709
+family tree 	Sports/Football	janesville gazette 	0.001709
+family tree 	Sports/Motorsports	janesville gazette 	0.001709
+family tree 	News/Analysis_and_Opinion	janesville gazette 	0.001709
+family tree 	Arts/Radio	janesville gazette 	0.001709
+family tree 	Computers/E-Books	janesville gazette 	0.001709
+family tree 	Business/Hospitality	janesville gazette 	0.001709
+family tree 	Computers/Internet	janesville gazette 	0.001709
+family tree 	Health/Child_Health	janesville gazette 	0.001709
+family tree 	Computers/History	janesville gazette 	0.001709
+family tree 	Games/Board_Games	janesville gazette 	0.001709
+family tree 	Science/Biology	janesville gazette 	0.001709
+family tree 	Sports/Tennis	janesville gazette 	0.001709
+family tree 	Games/Miniatures	janesville gazette 	0.001709
+family tree 	Sports/Cue_Sports	janesville gazette 	0.001709
+family tree 	Sports/Wrestling	janesville gazette 	0.001709
+family tree 	Regional/Middle_East	janesville gazette 	0.001709
+family tree 	Health/Addictions	janesville gazette 	0.001709
+family tree 	Computers/Speech_Technology	janesville gazette 	0.001709
+family tree 	Business/Industrial_Goods_and_Services	janesville gazette 	0.001709
+family tree 	Society/Politics	janesville gazette 	0.001709
+family tree 	Sports/Korfball	janesville gazette 	0.001709
+family tree 	Recreation/Outdoors	janesville gazette 	0.001709
+family tree 	Society/Issues	janesville gazette 	0.001709
+family tree 	World/Deutsch	janesville gazette 	0.001709
+family tree 	Health/Medicine	janesville gazette 	0.001709
+family tree 	Recreation/Food	janesville gazette 	0.001709
+family tree 	Regional/Africa	janesville gazette 	0.001709
+family tree 	Regional/Caribbean	janesville gazette 	0.001709
+family tree 	Computers/Data_Formats	janesville gazette 	0.001709
+family tree 	Sports/Informal_Sports	janesville gazette 	0.001709
+family tree 	Sports/Croquet	janesville gazette 	0.001709
+family tree 	Games/Card_Games	janesville gazette 	0.001709
+family tree 	Sports/Track_and_Field	janesville gazette 	0.001709
+family tree 	Sports/Equestrian	janesville gazette 	0.001709
+family tree 	Sports/Laser_Games	janesville gazette 	0.001709
+family tree 	Business/Arts_and_Entertainment	janesville gazette 	0.001709
+family tree 	Arts/People	janesville gazette 	0.001709
+family tree 	Society/Folklore	janesville gazette 	0.001709
+family tree 	Computers/Multimedia	janesville gazette 	0.001709
+family tree 	Arts/Crafts	janesville gazette 	0.001709
+family tree 	Sports/Soccer	janesville gazette 	0.001709
+family tree 	Sports/Gaelic	janesville gazette 	0.001709
+family tree 	Arts/Graphic_Design	janesville gazette 	0.001709
+family tree 	Sports/Boxing	janesville gazette 	0.001709
+family tree 	Science/Science_in_Society	janesville gazette 	0.001709
+family tree 	Society/Crime	janesville gazette 	0.001709
+family tree 	Sports/Martial_Arts	janesville gazette 	0.001709
+family tree 	Reference/Time	janesville gazette 	0.001709
+family tree 	Business/Employment	janesville gazette 	0.001709
+family tree 	Arts/Design	janesville gazette 	0.001709
+family tree 	Computers/Usenet	janesville gazette 	0.001709
+family tree 	Science/Events	janesville gazette 	0.001709
+family tree 	Society/Law	janesville gazette 	0.001709
+family tree 	Sports/Extreme_Sports	janesville gazette 	0.001709
+family tree 	Arts/Movies	janesville gazette 	0.001709
+family tree 	Arts/Television	janesville gazette 	0.001709
+family tree 	Society/Government	janesville gazette 	0.001709
+family tree 	Society/Sexuality	janesville gazette 	0.001709
+family tree 	Society/Paranormal	janesville gazette 	0.001709
+family tree 	Science/Social_Sciences	janesville gazette 	0.001709
+family tree 	Regional/Central_America	janesville gazette 	0.001709
+family tree 	Society/Philosophy	janesville gazette 	0.001709
+family tree 	Arts/Illustration	janesville gazette 	0.001709
+family tree 	Arts/Art_History	janesville gazette 	0.001709
+family tree 	Arts/Comics	janesville gazette 	0.001709
+family tree 	Science/Astronomy	janesville gazette 	0.001709
+family tree 	Sports/Pesäpallo	janesville gazette 	0.001709
+family tree 	Recreation/Models	janesville gazette 	0.001709
+family tree 	Recreation/Scouting	janesville gazette 	0.001709
+family tree 	Health/Women's_Health	janesville gazette 	0.001709
+family tree 	Arts/Classical_Studies	janesville gazette 	0.001709
+family tree 	Science/Math	janesville gazette 	0.001709
+family tree 	Sports/Hockey	janesville gazette 	0.001709
+family tree 	Arts/Awards	janesville gazette 	0.001709
+family tree 	Computers/Programming	janesville gazette 	0.001709
+family tree 	Reference/Education	janesville gazette 	0.001709
+family tree 	Computers/Emulators	janesville gazette 	0.001709
+family tree 	Arts/Genres	janesville gazette 	0.001709
+family tree 	Society/Organizations	janesville gazette 	0.001709
+family tree 	Society/Ethnicity	janesville gazette 	0.001709
+family tree 	Arts/Visual_Arts	janesville gazette 	0.001709
+family tree 	Reference/Libraries	janesville gazette 	0.001709
+family tree 	Computers/Bulletin_Board_Systems	janesville gazette 	0.001709
+family tree 	Games/Hand_Games	janesville gazette 	0.001709
+family tree 	Reference/Knowledge_Management	janesville gazette 	0.001709
+family tree 	Games/Tile_Games	janesville gazette 	0.001709
+family tree 	Games/Conventions	janesville gazette 	0.001709
+family tree 	Computers/Artificial_Life	janesville gazette 	0.001709
+family tree 	Science/Earth_Sciences	janesville gazette 	0.001709
+family tree 	Computers/Artificial_Intelligence	janesville gazette 	0.001709
+family tree 	Recreation/Travel	janesville gazette 	0.001709
+family tree 	Computers/Hardware	janesville gazette 	0.001709
+family tree 	Business/Investing	janesville gazette 	0.001709
+family tree 	Sports/Baseball	janesville gazette 	0.001709
+family tree 	Home/Personal_Finance	janesville gazette 	0.001709
+family tree 	Computers/Computer_Science	janesville gazette 	0.001709
+family tree 	Sports/Golf	janesville gazette 	0.001709
+family tree 	Recreation/Pets	janesville gazette 	0.001709
+family tree 	Health/Senses	janesville gazette 	0.001709
+family tree 	Recreation/Humor	janesville gazette 	0.001709
+family tree 	Society/Support_Groups	janesville gazette 	0.001709
+family tree 	Society/Military	janesville gazette 	0.001709
+family tree 	Games/Puzzles	janesville gazette 	0.001709
+family tree 	Science/Methods_and_Techniques	janesville gazette 	0.001709
+family tree 	Computers/Desktop_Publishing	janesville gazette 	0.001709
+family tree 	Society/Subcultures	janesville gazette 	0.001709
+family tree 	Regional/Oceania	janesville gazette 	0.001709
+family tree 	Science/Reference	janesville gazette 	0.001709
+family tree 	Sports/Kabbadi	janesville gazette 	0.001709
+family tree 	Games/Gambling	janesville gazette 	0.001709
+family tree 	Sports/Rounders	janesville gazette 	0.001709
+family tree 	Reference/Maps	janesville gazette 	0.001709
+family tree 	Health/Conditions_and_Diseases	janesville gazette 	0.001709
+family tree 	Society/Activism	janesville gazette 	0.001709
+family tree 	Recreation/Autos	janesville gazette 	0.001709
+family tree 	Sports/Winter_Sports	janesville gazette 	0.001709
+family tree 	Society/History	janesville gazette 	0.001709
+family tree 	Society/People	janesville gazette 	0.001709
+family tree 	Health/Reproductive_Health	janesville gazette 	0.001709
+family tree 	Games/Paper_and_Pencil	janesville gazette 	0.001709
+family tree 	Games/Yard_Deck_and_Table_Games	janesville gazette 	0.001709
+family tree 	Business/Financial_Services	janesville gazette 	0.001709
+family tree 	Science/Physics	janesville gazette 	0.001709
+family tree 	Sports/Water_Sports	janesville gazette 	0.001709
+family tree 	Science/Technology	janesville gazette 	0.001709
+family tree 	Computers/Robotics	janesville gazette 	0.001709
+family tree 	Home/Consumer_Information	janesville gazette 	0.001709
+family tree 	Health/Specific_Substances	janesville gazette 	0.001709
+family tree 	Science/Anomalies_and_Alternative_Science	janesville gazette 	0.001709
+family tree 	Society/Lifestyle_Choices	janesville gazette 	0.001709
+family tree 	Reference/Flags	janesville gazette 	0.001709
+family tree 	Computers/Open_Source	janesville gazette 	0.001709
+family tree 	Society/Holidays	janesville gazette 	0.001709
+family tree 	Computers/Algorithms	janesville gazette 	0.001709
+canon 	Computers/Hardware	nikon 	0.500000
+canon 	Arts/Photography	nikon 	0.500000
+usps 	Reference/Dictionaries	anywho com 	0.142857
+usps 	Computers/Internet	anywho com 	0.142857
+usps 	Society/Issues	anywho com 	0.142857
+usps 	Science/Earth_Sciences	anywho com 	0.142857
+usps 	Shopping/Gifts	anywho com 	0.142857
+usps 	Regional/North_America	anywho com 	0.142857
+usps 	Society/Law	anywho com 	0.142857
+timewarner 	Computers/Internet	clark atlanta 	0.200000
+timewarner 	Society/Issues	clark atlanta 	0.200000
+timewarner 	Business/Arts_and_Entertainment	clark atlanta 	0.200000
+timewarner 	Arts/Performing_Arts	clark atlanta 	0.200000
+timewarner 	Regional/North_America	clark atlanta 	0.200000
+halo 4 	Society/Issues	xbox live 	0.166667
+halo 4 	Arts/Animation	xbox live 	0.166667
+halo 4 	Health/Addictions	xbox live 	0.166667
+halo 4 	Games/Conventions	xbox live 	0.166667
+halo 4 	Games/Roleplaying	xbox live 	0.166667
+halo 4 	Games/Video_Games	xbox live 	0.166667
+www eharmony com 	Science/Social_Sciences	www studentloan com 	1.000000
+alamo 	Business/Automotive	budget car rental 	1.000000
+land s end 	Shopping/Clothing	dick s sporting goods 	0.416667
+land s end 	Shopping/General_Merchandise	dick s sporting goods 	0.268519
+land s end 	Regional/North_America	dick s sporting goods 	0.175926
+land s end 	Home/Home_Improvement	dick s sporting goods 	0.037037
+land s end 	Recreation/Outdoors	dick s sporting goods 	0.037037
+land s end 	Business/Retail_Trade	dick s sporting goods 	0.037037
+land s end 	Shopping/Recreation	dick s sporting goods 	0.027778
+tuberculosis 	Home/Cooking	influenza 	0.005128
+tuberculosis 	Computers/Graphics	influenza 	0.005128
+tuberculosis 	Regional/South_America	influenza 	0.005128
+tuberculosis 	Business/Cooperatives	influenza 	0.005128
+tuberculosis 	Society/Relationships	influenza 	0.005128
+tuberculosis 	Games/Party_Games	influenza 	0.005128
+tuberculosis 	Sports/Events	influenza 	0.005128
+tuberculosis 	Health/Pharmacy	influenza 	0.005128
+tuberculosis 	Arts/Awards	influenza 	0.005128
+tuberculosis 	Sports/Basketball	influenza 	0.005128
+tuberculosis 	Sports/Motorsports	influenza 	0.005128
+tuberculosis 	Computers/Bulletin_Board_Systems	influenza 	0.005128
+tuberculosis 	Computers/Internet	influenza 	0.005128
+tuberculosis 	Sports/Cue_Sports	influenza 	0.005128
+tuberculosis 	Sports/Wrestling	influenza 	0.005128
+tuberculosis 	News/Media	influenza 	0.005128
+tuberculosis 	Computers/Speech_Technology	influenza 	0.005128
+tuberculosis 	Society/Issues	influenza 	0.005128
+tuberculosis 	Computers/Multimedia	influenza 	0.005128
+tuberculosis 	Society/Religion_and_Spirituality	influenza 	0.005128
+tuberculosis 	Arts/Crafts	influenza 	0.005128
+tuberculosis 	Society/Government	influenza 	0.005128
+tuberculosis 	Science/Social_Sciences	influenza 	0.005128
+tuberculosis 	Society/Philosophy	influenza 	0.005128
+tuberculosis 	Arts/Art_History	influenza 	0.005128
+tuberculosis 	Arts/Classical_Studies	influenza 	0.005128
+tuberculosis 	Science/Math	influenza 	0.005128
+tuberculosis 	Science/Earth_Sciences	influenza 	0.005128
+tuberculosis 	Computers/Hardware	influenza 	0.005128
+tuberculosis 	Computers/Computer_Science	influenza 	0.005128
+tuberculosis 	Sports/Golf	influenza 	0.005128
+tuberculosis 	Science/Methods_and_Techniques	influenza 	0.005128
+tuberculosis 	Society/Subcultures	influenza 	0.005128
+tuberculosis 	Science/Reference	influenza 	0.005128
+tuberculosis 	Reference/Maps	influenza 	0.005128
+tuberculosis 	Business/Financial_Services	influenza 	0.005128
+tuberculosis 	Science/Physics	influenza 	0.005128
+tuberculosis 	Computers/Robotics	influenza 	0.005128
+tuberculosis 	Science/Anomalies_and_Alternative_Science	influenza 	0.005128
+tuberculosis 	Arts/Music	influenza 	0.005128
+tuberculosis 	Science/Biology	influenza 	0.005128
+tuberculosis 	Sports/Cycling	influenza 	0.005128
+tuberculosis 	Arts/Literature	influenza 	0.005128
+tuberculosis 	Games/Coin-Op	influenza 	0.005128
+tuberculosis 	Business/Retail_Trade	influenza 	0.005128
+tuberculosis 	Arts/Animation	influenza 	0.005128
+tuberculosis 	Computers/Security	influenza 	0.005128
+tuberculosis 	News/Analysis_and_Opinion	influenza 	0.005128
+tuberculosis 	Business/Industrial_Goods_and_Services	influenza 	0.005128
+tuberculosis 	Computers/Usenet	influenza 	0.005128
+tuberculosis 	Society/Politics	influenza 	0.005128
+tuberculosis 	Sports/Korfball	influenza 	0.005128
+tuberculosis 	Recreation/Outdoors	influenza 	0.005128
+tuberculosis 	Recreation/Food	influenza 	0.005128
+tuberculosis 	Computers/Data_Formats	influenza 	0.005128
+tuberculosis 	Sports/Track_and_Field	influenza 	0.005128
+tuberculosis 	Sports/Laser_Games	influenza 	0.005128
+tuberculosis 	Business/Arts_and_Entertainment	influenza 	0.005128
+tuberculosis 	Sports/Boxing	influenza 	0.005128
+tuberculosis 	Sports/Martial_Arts	influenza 	0.005128
+tuberculosis 	Business/Employment	influenza 	0.005128
+tuberculosis 	Society/Sexuality	influenza 	0.005128
+tuberculosis 	Regional/Central_America	influenza 	0.005128
+tuberculosis 	Arts/Illustration	influenza 	0.005128
+tuberculosis 	Recreation/Scouting	influenza 	0.005128
+tuberculosis 	Computers/CAD_and_CAM	influenza 	0.005128
+tuberculosis 	Society/Organizations	influenza 	0.005128
+tuberculosis 	Society/Ethnicity	influenza 	0.005128
+tuberculosis 	Reference/Libraries	influenza 	0.005128
+tuberculosis 	Games/Hand_Games	influenza 	0.005128
+tuberculosis 	Recreation/Travel	influenza 	0.005128
+tuberculosis 	Home/Personal_Finance	influenza 	0.005128
+tuberculosis 	Recreation/Humor	influenza 	0.005128
+tuberculosis 	Business/Hospitality	influenza 	0.005128
+tuberculosis 	Sports/Kabbadi	influenza 	0.005128
+tuberculosis 	Games/Gambling	influenza 	0.005128
+tuberculosis 	Society/History	influenza 	0.005128
+tuberculosis 	Health/Specific_Substances	influenza 	0.005128
+tuberculosis 	Society/Lifestyle_Choices	influenza 	0.005128
+tuberculosis 	Computers/Algorithms	influenza 	0.005128
+tuberculosis 	News/Newspapers	influenza 	0.005128
+tuberculosis 	Sports/Tennis	influenza 	0.005128
+tuberculosis 	Business/Food_and_Related_Products	influenza 	0.005128
+tuberculosis 	Computers/Companies	influenza 	0.005128
+tuberculosis 	Health/Addictions	influenza 	0.005128
+tuberculosis 	Sports/Cricket	influenza 	0.005128
+tuberculosis 	Science/Agriculture	influenza 	0.005128
+tuberculosis 	Health/Animal	influenza 	0.005128
+tuberculosis 	Science/Chemistry	influenza 	0.005128
+tuberculosis 	Business/Business_Services	influenza 	0.005128
+tuberculosis 	Business/Healthcare	influenza 	0.005128
+tuberculosis 	Health/Alternative	influenza 	0.005128
+tuberculosis 	Society/Death	influenza 	0.005128
+tuberculosis 	Health/Men's_Health	influenza 	0.005128
+tuberculosis 	Games/Trading_Card_Games	influenza 	0.005128
+tuberculosis 	Computers/Education	influenza 	0.005128
+tuberculosis 	Arts/Performing_Arts	influenza 	0.005128
+tuberculosis 	Arts/Photography	influenza 	0.005128
+tuberculosis 	Business/Marketing_and_Advertising	influenza 	0.005128
+tuberculosis 	Recreation/Drugs	influenza 	0.005128
+tuberculosis 	Computers/Systems	influenza 	0.005128
+tuberculosis 	Regional/Asia	influenza 	0.005128
+tuberculosis 	Society/Future	influenza 	0.005128
+tuberculosis 	Computers/Programming	influenza 	0.005128
+tuberculosis 	Computers/E-Books	influenza 	0.005128
+tuberculosis 	Health/Child_Health	influenza 	0.005128
+tuberculosis 	Computers/History	influenza 	0.005128
+tuberculosis 	Games/Miniatures	influenza 	0.005128
+tuberculosis 	Regional/Middle_East	influenza 	0.005128
+tuberculosis 	Health/Medicine	influenza 	0.005128
+tuberculosis 	Regional/Caribbean	influenza 	0.005128
+tuberculosis 	Sports/Informal_Sports	influenza 	0.005128
+tuberculosis 	Sports/Croquet	influenza 	0.005128
+tuberculosis 	Games/Card_Games	influenza 	0.005128
+tuberculosis 	Computers/Emulators	influenza 	0.005128
+tuberculosis 	Sports/Equestrian	influenza 	0.005128
+tuberculosis 	Regional/Europe	influenza 	0.005128
+tuberculosis 	Regional/North_America	influenza 	0.005128
+tuberculosis 	Sports/Soccer	influenza 	0.005128
+tuberculosis 	Sports/Football	influenza 	0.005128
+tuberculosis 	Sports/Extreme_Sports	influenza 	0.005128
+tuberculosis 	Society/Crime	influenza 	0.005128
+tuberculosis 	Society/Paranormal	influenza 	0.005128
+tuberculosis 	Health/Senses	influenza 	0.005128
+tuberculosis 	Recreation/Models	influenza 	0.005128
+tuberculosis 	Arts/Radio	influenza 	0.005128
+tuberculosis 	Reference/Education	influenza 	0.005128
+tuberculosis 	Business/Transportation_and_Logistics	influenza 	0.005128
+tuberculosis 	Computers/Mobile_Computing	influenza 	0.005128
+tuberculosis 	Regional/Africa	influenza 	0.005128
+tuberculosis 	Reference/Knowledge_Management	influenza 	0.005128
+tuberculosis 	Games/Conventions	influenza 	0.005128
+tuberculosis 	Computers/Artificial_Life	influenza 	0.005128
+tuberculosis 	Health/Conditions_and_Diseases	influenza 	0.005128
+tuberculosis 	Business/Investing	influenza 	0.005128
+tuberculosis 	Computers/Open_Source	influenza 	0.005128
+tuberculosis 	Home/Gardening	influenza 	0.005128
+tuberculosis 	Recreation/Pets	influenza 	0.005128
+tuberculosis 	Society/Support_Groups	influenza 	0.005128
+tuberculosis 	Games/Puzzles	influenza 	0.005128
+tuberculosis 	Recreation/Locks	influenza 	0.005128
+tuberculosis 	Recreation/Autos	influenza 	0.005128
+tuberculosis 	Sports/Winter_Sports	influenza 	0.005128
+tuberculosis 	Arts/Genres	influenza 	0.005128
+tuberculosis 	Sports/Baseball	influenza 	0.005128
+tuberculosis 	Computers/Artificial_Intelligence	influenza 	0.005128
+tuberculosis 	Home/Consumer_Information	influenza 	0.005128
+tuberculosis 	Society/Holidays	influenza 	0.005128
+tuberculosis 	Arts/Writers_Resources	influenza 	0.005128
+tuberculosis 	Games/Roleplaying	influenza 	0.005128
+tuberculosis 	Computers/Virtual_Reality	influenza 	0.005128
+tuberculosis 	Arts/Design	influenza 	0.005128
+tuberculosis 	Games/Yard_Deck_and_Table_Games	influenza 	0.005128
+tuberculosis 	Home/Homeowners	influenza 	0.005128
+tuberculosis 	Health/Nutrition	influenza 	0.005128
+tuberculosis 	Games/Video_Games	influenza 	0.005128
+tuberculosis 	Science/Environment	influenza 	0.005128
+tuberculosis 	Society/Gay_Lesbian_and_Bisexual	influenza 	0.005128
+tuberculosis 	Regional/Oceania	influenza 	0.005128
+tuberculosis 	Health/Women's_Health	influenza 	0.005128
+tuberculosis 	Computers/Software	influenza 	0.005128
+tuberculosis 	Arts/Architecture	influenza 	0.005128
+tuberculosis 	Society/Military	influenza 	0.005128
+tuberculosis 	Health/Mental_Health	influenza 	0.005128
+tuberculosis 	Sports/Rounders	influenza 	0.005128
+tuberculosis 	Science/Events	influenza 	0.005128
+tuberculosis 	World/Español	influenza 	0.005128
+tuberculosis 	Recreation/Collecting	influenza 	0.005128
+tuberculosis 	Science/Science_in_Society	influenza 	0.005128
+tuberculosis 	Arts/People	influenza 	0.005128
+tuberculosis 	Sports/Gaelic	influenza 	0.005128
+tuberculosis 	Arts/Graphic_Design	influenza 	0.005128
+tuberculosis 	Arts/Movies	influenza 	0.005128
+tuberculosis 	Reference/Time	influenza 	0.005128
+tuberculosis 	Arts/Television	influenza 	0.005128
+tuberculosis 	Games/Online	influenza 	0.005128
+tuberculosis 	Arts/Comics	influenza 	0.005128
+tuberculosis 	Science/Astronomy	influenza 	0.005128
+tuberculosis 	World/Deutsch	influenza 	0.005128
+tuberculosis 	Games/Paper_and_Pencil	influenza 	0.005128
+tuberculosis 	Sports/Hockey	influenza 	0.005128
+tuberculosis 	Games/Board_Games	influenza 	0.005128
+tuberculosis 	Sports/Pesäpallo	influenza 	0.005128
+tuberculosis 	Arts/Visual_Arts	influenza 	0.005128
+tuberculosis 	Sports/Skating	influenza 	0.005128
+tuberculosis 	Society/Activism	influenza 	0.005128
+tuberculosis 	Games/Tile_Games	influenza 	0.005128
+tuberculosis 	Computers/Desktop_Publishing	influenza 	0.005128
+tuberculosis 	Reference/Flags	influenza 	0.005128
+tuberculosis 	Society/Folklore	influenza 	0.005128
+tuberculosis 	Society/Law	influenza 	0.005128
+tuberculosis 	Society/People	influenza 	0.005128
+tuberculosis 	Health/Reproductive_Health	influenza 	0.005128
+tuberculosis 	Sports/Water_Sports	influenza 	0.005128
+tuberculosis 	Science/Technology	influenza 	0.005128
+dean mcdermott 	Society/People	wb 	0.185185
+dean mcdermott 	Arts/Music	wb 	0.141204
+dean mcdermott 	Arts/Entertainment	wb 	0.122685
+dean mcdermott 	Arts/Movies	wb 	0.099537
+dean mcdermott 	Arts/People	wb 	0.099537
+dean mcdermott 	Arts/Performing_Arts	wb 	0.099537
+dean mcdermott 	Business/Arts_and_Entertainment	wb 	0.081019
+dean mcdermott 	Arts/Television	wb 	0.039352
+dean mcdermott 	Sports/Basketball	wb 	0.020833
+dean mcdermott 	Arts/Literature	wb 	0.018519
+dean mcdermott 	Games/Video_Games	wb 	0.018519
+dean mcdermott 	Arts/Animation	wb 	0.018519
+dean mcdermott 	Reference/Biography	wb 	0.018519
+dean mcdermott 	Regional/Europe	wb 	0.018519
+dean mcdermott 	Arts/Design	wb 	0.018519
+walleye 	Recreation/Outdoors	perch 	1.000000
+pittsburgh post gazette 	Home/Cooking	fox sports 	0.033333
+pittsburgh post gazette 	Society/Relationships	fox sports 	0.033333
+pittsburgh post gazette 	Society/Issues	fox sports 	0.033333
+pittsburgh post gazette 	Society/Religion_and_Spirituality	fox sports 	0.033333
+pittsburgh post gazette 	Health/Occupational_Health_and_Safety	fox sports 	0.033333
+pittsburgh post gazette 	Science/Physics	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Music	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Literature	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Animation	fox sports 	0.033333
+pittsburgh post gazette 	Society/Ethnicity	fox sports 	0.033333
+pittsburgh post gazette 	Reference/Libraries	fox sports 	0.033333
+pittsburgh post gazette 	Health/Addictions	fox sports 	0.033333
+pittsburgh post gazette 	Health/Men's_Health	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Performing_Arts	fox sports 	0.033333
+pittsburgh post gazette 	Health/Medicine	fox sports 	0.033333
+pittsburgh post gazette 	Regional/Europe	fox sports 	0.033333
+pittsburgh post gazette 	Regional/North_America	fox sports 	0.033333
+pittsburgh post gazette 	Sports/Football	fox sports 	0.033333
+pittsburgh post gazette 	Society/Crime	fox sports 	0.033333
+pittsburgh post gazette 	Reference/Education	fox sports 	0.033333
+pittsburgh post gazette 	Recreation/Pets	fox sports 	0.033333
+pittsburgh post gazette 	Sports/Baseball	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Design	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Architecture	fox sports 	0.033333
+pittsburgh post gazette 	Health/Mental_Health	fox sports 	0.033333
+pittsburgh post gazette 	Arts/People	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Movies	fox sports 	0.033333
+pittsburgh post gazette 	Arts/Television	fox sports 	0.033333
+pittsburgh post gazette 	Sports/Hockey	fox sports 	0.033333
+pittsburgh post gazette 	Society/People	fox sports 	0.033333
+online games 	Games/Video_Games	candy stand 	0.722222
+online games 	Games/Card_Games	candy stand 	0.083333
+online games 	Arts/Entertainment	candy stand 	0.083333
+online games 	World/Deutsch	candy stand 	0.055556
+online games 	World/Français	candy stand 	0.055556
+greys anatomy 	Regional/North_America	da vinci code 	0.500000
+greys anatomy 	Arts/Television	da vinci code 	0.500000
+walmart com 	Computers/Internet	washington mutual 	0.333333
+walmart com 	Regional/North_America	washington mutual 	0.333333
+walmart com 	Shopping/General_Merchandise	washington mutual 	0.333333
+bosch 	Business/Consumer_Goods_and_Services	panasonic 	1.000000
+myspace layouts 	Computers/Systems	wallpapers 	0.015873
+myspace layouts 	Arts/Visual_Arts	wallpapers 	0.015873
+myspace layouts 	Arts/Music	wallpapers 	0.015873
+myspace layouts 	Sports/Skating	wallpapers 	0.015873
+myspace layouts 	Regional/Asia	wallpapers 	0.015873
+myspace layouts 	Arts/Animation	wallpapers 	0.015873
+myspace layouts 	World/Română	wallpapers 	0.015873
+myspace layouts 	Arts/Movies	wallpapers 	0.015873
+myspace layouts 	Sports/Football	wallpapers 	0.015873
+myspace layouts 	Sports/Cycling	wallpapers 	0.015873
+myspace layouts 	Arts/Literature	wallpapers 	0.015873
+myspace layouts 	Regional/Oceania	wallpapers 	0.015873
+myspace layouts 	Recreation/Travel	wallpapers 	0.015873
+myspace layouts 	Computers/Internet	wallpapers 	0.015873
+myspace layouts 	World/Türkçe	wallpapers 	0.015873
+myspace layouts 	Health/Conditions_and_Diseases	wallpapers 	0.015873
+myspace layouts 	Regional/Middle_East	wallpapers 	0.015873
+myspace layouts 	Society/History	wallpapers 	0.015873
+myspace layouts 	World/Català	wallpapers 	0.015873
+myspace layouts 	World/Esperanto	wallpapers 	0.015873
+myspace layouts 	Arts/Television	wallpapers 	0.015873
+myspace layouts 	Society/Gay_Lesbian_and_Bisexual	wallpapers 	0.015873
+myspace layouts 	World/Russian	wallpapers 	0.015873
+myspace layouts 	World/Italiano	wallpapers 	0.015873
+myspace layouts 	Recreation/Humor	wallpapers 	0.015873
+myspace layouts 	Science/Social_Sciences	wallpapers 	0.015873
+myspace layouts 	Sports/Cheerleading	wallpapers 	0.015873
+myspace layouts 	World/Nederlands	wallpapers 	0.015873
+myspace layouts 	Arts/People	wallpapers 	0.015873
+myspace layouts 	Business/Business_Services	wallpapers 	0.015873
+myspace layouts 	Society/Subcultures	wallpapers 	0.015873
+myspace layouts 	Society/Issues	wallpapers 	0.015873
+myspace layouts 	Arts/Comics	wallpapers 	0.015873
+myspace layouts 	World/Svenska	wallpapers 	0.015873
+myspace layouts 	Shopping/Entertainment	wallpapers 	0.015873
+myspace layouts 	World/Português	wallpapers 	0.015873
+myspace layouts 	Society/Paranormal	wallpapers 	0.015873
+myspace layouts 	Regional/North_America	wallpapers 	0.015873
+myspace layouts 	Games/Trading_Card_Games	wallpapers 	0.015873
+myspace layouts 	Society/Religion_and_Spirituality	wallpapers 	0.015873
+myspace layouts 	Recreation/Scouting	wallpapers 	0.015873
+myspace layouts 	Recreation/Food	wallpapers 	0.015873
+myspace layouts 	Arts/Performing_Arts	wallpapers 	0.015873
+myspace layouts 	World/Deutsch	wallpapers 	0.015873
+myspace layouts 	Regional/Caribbean	wallpapers 	0.015873
+myspace layouts 	Society/Transgendered	wallpapers 	0.015873
+myspace layouts 	Science/Science_in_Society	wallpapers 	0.015873
+myspace layouts 	Sports/Soccer	wallpapers 	0.015873
+myspace layouts 	Sports/Hockey	wallpapers 	0.015873
+myspace layouts 	Regional/Europe	wallpapers 	0.015873
+myspace layouts 	Business/Arts_and_Entertainment	wallpapers 	0.015873
+myspace layouts 	Reference/Education	wallpapers 	0.015873
+myspace layouts 	Society/People	wallpapers 	0.015873
+myspace layouts 	Sports/Darts	wallpapers 	0.015873
+myspace layouts 	World/Gàidhlig	wallpapers 	0.015873
+myspace layouts 	Society/Holidays	wallpapers 	0.015873
+myspace layouts 	World/Español	wallpapers 	0.015873
+myspace layouts 	World/Japanese	wallpapers 	0.015873
+myspace layouts 	World/Français	wallpapers 	0.015873
+myspace layouts 	World/Polski	wallpapers 	0.015873
+myspace layouts 	Recreation/Drugs	wallpapers 	0.015873
+myspace layouts 	World/Cymraeg	wallpapers 	0.015873
+myspace layouts 	Society/Organizations	wallpapers 	0.015873
+gamespot 	Society/Issues	gimp 	0.166667
+gamespot 	Arts/Animation	gimp 	0.166667
+gamespot 	Health/Addictions	gimp 	0.166667
+gamespot 	Games/Conventions	gimp 	0.166667
+gamespot 	Games/Roleplaying	gimp 	0.166667
+gamespot 	Games/Video_Games	gimp 	0.166667
+lipitor 	Health/Pharmacy	plavix 	2.000000
+baseball america 	Sports/Events	vegas com 	0.500000
+baseball america 	Sports/Baseball	vegas com 	0.500000
+abc 	Business/Construction_and_Maintenance	nbc 	7.000000
+wbir 	Regional/North_America	wjhl 	1.000000
+wbir 	Arts/Television	wjhl 	1.000000
+wachovia 	Business/Financial_Services	capitol one 	0.500000
+wachovia 	Regional/North_America	capitol one 	0.500000
+espn 	Sports/Events	abcnews 	0.035714
+espn 	Sports/Basketball	abcnews 	0.035714
+espn 	Sports/Motorsports	abcnews 	0.035714
+espn 	Society/Issues	abcnews 	0.035714
+espn 	Sports/Golf	abcnews 	0.035714
+espn 	Sports/Cycling	abcnews 	0.035714
+espn 	Recreation/Boating	abcnews 	0.035714
+espn 	Arts/Animation	abcnews 	0.035714
+espn 	Recreation/Outdoors	abcnews 	0.035714
+espn 	Sports/Track_and_Field	abcnews 	0.035714
+espn 	Business/Arts_and_Entertainment	abcnews 	0.035714
+espn 	Sports/Boxing	abcnews 	0.035714
+espn 	Sports/College_and_University	abcnews 	0.035714
+espn 	Society/Organizations	abcnews 	0.035714
+espn 	Sports/Lacrosse	abcnews 	0.035714
+espn 	Sports/Tennis	abcnews 	0.035714
+espn 	Sports/Strength_Sports	abcnews 	0.035714
+espn 	Arts/Performing_Arts	abcnews 	0.035714
+espn 	Sports/Equestrian	abcnews 	0.035714
+espn 	Sports/Resources	abcnews 	0.035714
+espn 	Regional/North_America	abcnews 	0.035714
+espn 	Sports/Football	abcnews 	0.035714
+espn 	Sports/Baseball	abcnews 	0.035714
+espn 	Society/Gay_Lesbian_and_Bisexual	abcnews 	0.035714
+espn 	Arts/People	abcnews 	0.035714
+espn 	Arts/Movies	abcnews 	0.035714
+espn 	Arts/Television	abcnews 	0.035714
+espn 	Sports/Hockey	abcnews 	0.035714
+bankofamerica 	Business/Financial_Services	new braunfels texas 	0.500000
+bankofamerica 	Regional/North_America	new braunfels texas 	0.500000
+bridal showers 	Society/Relationships	wedding announcements 	1.000000
+windows vista 	World/Russian	windows vista download 	0.062500
+windows vista 	Computers/Multimedia	windows vista download 	0.062500
+windows vista 	World/Italiano	windows vista download 	0.062500
+windows vista 	World/Français	windows vista download 	0.062500
+windows vista 	Computers/Computer_Science	windows vista download 	0.062500
+windows vista 	World/Polski	windows vista download 	0.062500
+windows vista 	Computers/Data_Formats	windows vista download 	0.062500
+windows vista 	Computers/Systems	windows vista download 	0.062500
+windows vista 	Computers/Programming	windows vista download 	0.062500
+windows vista 	World/Japanese	windows vista download 	0.062500
+windows vista 	Computers/Virtual_Reality	windows vista download 	0.062500
+windows vista 	Computers/Software	windows vista download 	0.062500
+windows vista 	World/Español	windows vista download 	0.062500
+windows vista 	World/Chinese_Simplified	windows vista download 	0.062500
+windows vista 	World/Deutsch	windows vista download 	0.062500
+windows vista 	Computers/Desktop_Publishing	windows vista download 	0.062500
+southern company 	Business/Energy	vbs themes 	0.500000
+southern company 	Regional/North_America	vbs themes 	0.500000
+wal mart 	Computers/Internet	napa auto parts 	0.333333
+wal mart 	Regional/North_America	napa auto parts 	0.333333
+wal mart 	Shopping/General_Merchandise	napa auto parts 	0.333333
+cartoon network 	Arts/Animation	free online games 	0.333333
+cartoon network 	Arts/Television	free online games 	0.333333
+cartoon network 	Shopping/Entertainment	free online games 	0.333333
+margarita 	Home/Cooking	ford com 	0.500000
+margarita 	Recreation/Food	ford com 	0.500000
+david blaine 	Arts/Performing_Arts	ticketmaster 	1.000000
+tommy bahama 	Regional/North_America	ask com 	0.173474
+tommy bahama 	Shopping/Clothing	ask com 	0.166667
+tommy bahama 	Society/Issues	ask com 	0.048474
+tommy bahama 	Recreation/Autos	ask com 	0.042521
+tommy bahama 	Home/Consumer_Information	ask com 	0.042521
+tommy bahama 	Business/Opportunities	ask com 	0.041667
+tommy bahama 	Home/Cooking	ask com 	0.011966
+tommy bahama 	Health/Alternative	ask com 	0.011966
+tommy bahama 	Health/Men's_Health	ask com 	0.011966
+tommy bahama 	Health/Mental_Health	ask com 	0.011966
+tommy bahama 	Health/Pharmacy	ask com 	0.011966
+tommy bahama 	Health/Child_Health	ask com 	0.011966
+tommy bahama 	Health/Addictions	ask com 	0.011966
+tommy bahama 	Health/Women's_Health	ask com 	0.011966
+tommy bahama 	Health/Conditions_and_Diseases	ask com 	0.011966
+tommy bahama 	Health/Reproductive_Health	ask com 	0.011966
+tommy bahama 	Health/Specific_Substances	ask com 	0.011966
+tommy bahama 	Home/Family	ask com 	0.011111
+tommy bahama 	Health/Weight_Loss	ask com 	0.011111
+tommy bahama 	Health/Public_Health_and_Safety	ask com 	0.011111
+tommy bahama 	Health/Education	ask com 	0.011111
+tommy bahama 	Sports/Cycling	ask com 	0.006807
+tommy bahama 	Society/Gay_Lesbian_and_Bisexual	ask com 	0.006807
+tommy bahama 	Sports/Events	ask com 	0.006807
+tommy bahama 	Arts/Performing_Arts	ask com 	0.006807
+tommy bahama 	Arts/Animation	ask com 	0.006807
+tommy bahama 	Sports/Basketball	ask com 	0.006807
+tommy bahama 	Sports/Football	ask com 	0.006807
+tommy bahama 	Sports/Motorsports	ask com 	0.006807
+tommy bahama 	Sports/Tennis	ask com 	0.006807
+tommy bahama 	Recreation/Outdoors	ask com 	0.006807
+tommy bahama 	Sports/Track_and_Field	ask com 	0.006807
+tommy bahama 	Sports/Equestrian	ask com 	0.006807
+tommy bahama 	Business/Arts_and_Entertainment	ask com 	0.006807
+tommy bahama 	Arts/People	ask com 	0.006807
+tommy bahama 	Sports/Boxing	ask com 	0.006807
+tommy bahama 	Arts/Movies	ask com 	0.006807
+tommy bahama 	Arts/Television	ask com 	0.006807
+tommy bahama 	Sports/Hockey	ask com 	0.006807
+tommy bahama 	Society/Organizations	ask com 	0.006807
+tommy bahama 	Sports/Baseball	ask com 	0.006807
+tommy bahama 	Sports/Golf	ask com 	0.006807
+tommy bahama 	Sports/Lacrosse	ask com 	0.005952
+tommy bahama 	Recreation/Boating	ask com 	0.005952
+tommy bahama 	Sports/Strength_Sports	ask com 	0.005952
+tommy bahama 	Sports/Resources	ask com 	0.005952
+tommy bahama 	Sports/College_and_University	ask com 	0.005952
+tommy bahama 	Home/Gardening	ask com 	0.000855
+tommy bahama 	Arts/Music	ask com 	0.000855
+tommy bahama 	News/Newspapers	ask com 	0.000855
+tommy bahama 	World/Español	ask com 	0.000855
+tommy bahama 	Business/Food_and_Related_Products	ask com 	0.000855
+tommy bahama 	Games/Roleplaying	ask com 	0.000855
+tommy bahama 	Computers/Virtual_Reality	ask com 	0.000855
+tommy bahama 	Computers/Companies	ask com 	0.000855
+tommy bahama 	Computers/Graphics	ask com 	0.000855
+tommy bahama 	Arts/Literature	ask com 	0.000855
+tommy bahama 	Games/Coin-Op	ask com 	0.000855
+tommy bahama 	Business/Transportation_and_Logistics	ask com 	0.000855
+tommy bahama 	News/Media	ask com 	0.000855
+tommy bahama 	Sports/Cricket	ask com 	0.000855
+tommy bahama 	Recreation/Collecting	ask com 	0.000855
+tommy bahama 	Home/Homeowners	ask com 	0.000855
+tommy bahama 	Sports/Skating	ask com 	0.000855
+tommy bahama 	Science/Agriculture	ask com 	0.000855
+tommy bahama 	Health/Nutrition	ask com 	0.000855
+tommy bahama 	Business/Cooperatives	ask com 	0.000855
+tommy bahama 	Health/Animal	ask com 	0.000855
+tommy bahama 	Society/Relationships	ask com 	0.000855
+tommy bahama 	Science/Chemistry	ask com 	0.000855
+tommy bahama 	Computers/Mobile_Computing	ask com 	0.000855
+tommy bahama 	Business/Business_Services	ask com 	0.000855
+tommy bahama 	Computers/CAD_and_CAM	ask com 	0.000855
+tommy bahama 	Games/Party_Games	ask com 	0.000855
+tommy bahama 	Business/Healthcare	ask com 	0.000855
+tommy bahama 	Games/Online	ask com 	0.000855
+tommy bahama 	Society/Death	ask com 	0.000855
+tommy bahama 	Business/Retail_Trade	ask com 	0.000855
+tommy bahama 	Games/Trading_Card_Games	ask com 	0.000855
+tommy bahama 	Computers/Education	ask com 	0.000855
+tommy bahama 	Computers/Software	ask com 	0.000855
+tommy bahama 	Arts/Architecture	ask com 	0.000855
+tommy bahama 	Arts/Photography	ask com 	0.000855
+tommy bahama 	Business/Marketing_and_Advertising	ask com 	0.000855
+tommy bahama 	Games/Video_Games	ask com 	0.000855
+tommy bahama 	Recreation/Drugs	ask com 	0.000855
+tommy bahama 	Computers/Systems	ask com 	0.000855
+tommy bahama 	Science/Environment	ask com 	0.000855
+tommy bahama 	Recreation/Locks	ask com 	0.000855
+tommy bahama 	Arts/Writers_Resources	ask com 	0.000855
+tommy bahama 	Regional/Asia	ask com 	0.000855
+tommy bahama 	Computers/Security	ask com 	0.000855
+tommy bahama 	Society/Future	ask com 	0.000855
+tommy bahama 	News/Analysis_and_Opinion	ask com 	0.000855
+tommy bahama 	Arts/Radio	ask com 	0.000855
+tommy bahama 	Computers/E-Books	ask com 	0.000855
+tommy bahama 	Business/Hospitality	ask com 	0.000855
+tommy bahama 	Computers/Internet	ask com 	0.000855
+tommy bahama 	Computers/History	ask com 	0.000855
+tommy bahama 	Games/Board_Games	ask com 	0.000855
+tommy bahama 	Science/Biology	ask com 	0.000855
+tommy bahama 	Games/Miniatures	ask com 	0.000855
+tommy bahama 	Sports/Cue_Sports	ask com 	0.000855
+tommy bahama 	Sports/Wrestling	ask com 	0.000855
+tommy bahama 	Regional/Middle_East	ask com 	0.000855
+tommy bahama 	Computers/Speech_Technology	ask com 	0.000855
+tommy bahama 	Business/Industrial_Goods_and_Services	ask com 	0.000855
+tommy bahama 	Society/Politics	ask com 	0.000855
+tommy bahama 	Sports/Korfball	ask com 	0.000855
+tommy bahama 	Regional/South_America	ask com 	0.000855
+tommy bahama 	World/Deutsch	ask com 	0.000855
+tommy bahama 	Computers/Multimedia	ask com 	0.000855
+tommy bahama 	Health/Medicine	ask com 	0.000855
+tommy bahama 	Society/Religion_and_Spirituality	ask com 	0.000855
+tommy bahama 	Recreation/Food	ask com 	0.000855
+tommy bahama 	Regional/Africa	ask com 	0.000855
+tommy bahama 	Regional/Caribbean	ask com 	0.000855
+tommy bahama 	Computers/Data_Formats	ask com 	0.000855
+tommy bahama 	Sports/Informal_Sports	ask com 	0.000855
+tommy bahama 	Sports/Croquet	ask com 	0.000855
+tommy bahama 	Games/Card_Games	ask com 	0.000855
+tommy bahama 	Sports/Laser_Games	ask com 	0.000855
+tommy bahama 	Society/Folklore	ask com 	0.000855
+tommy bahama 	Arts/Crafts	ask com 	0.000855
+tommy bahama 	Sports/Soccer	ask com 	0.000855
+tommy bahama 	Sports/Gaelic	ask com 	0.000855
+tommy bahama 	Arts/Graphic_Design	ask com 	0.000855
+tommy bahama 	Science/Science_in_Society	ask com 	0.000855
+tommy bahama 	Society/Crime	ask com 	0.000855
+tommy bahama 	Sports/Martial_Arts	ask com 	0.000855
+tommy bahama 	Reference/Time	ask com 	0.000855
+tommy bahama 	Business/Employment	ask com 	0.000855
+tommy bahama 	Arts/Design	ask com 	0.000855
+tommy bahama 	Computers/Usenet	ask com 	0.000855
+tommy bahama 	Science/Events	ask com 	0.000855
+tommy bahama 	Society/Law	ask com 	0.000855
+tommy bahama 	Sports/Extreme_Sports	ask com 	0.000855
+tommy bahama 	Society/Government	ask com 	0.000855
+tommy bahama 	Society/Sexuality	ask com 	0.000855
+tommy bahama 	Society/Paranormal	ask com 	0.000855
+tommy bahama 	Science/Social_Sciences	ask com 	0.000855
+tommy bahama 	Regional/Central_America	ask com 	0.000855
+tommy bahama 	Society/Philosophy	ask com 	0.000855
+tommy bahama 	Arts/Illustration	ask com 	0.000855
+tommy bahama 	Arts/Art_History	ask com 	0.000855
+tommy bahama 	Arts/Comics	ask com 	0.000855
+tommy bahama 	Science/Astronomy	ask com 	0.000855
+tommy bahama 	Sports/Pesäpallo	ask com 	0.000855
+tommy bahama 	Recreation/Models	ask com 	0.000855
+tommy bahama 	Recreation/Scouting	ask com 	0.000855
+tommy bahama 	Arts/Classical_Studies	ask com 	0.000855
+tommy bahama 	Science/Math	ask com 	0.000855
+tommy bahama 	Arts/Awards	ask com 	0.000855
+tommy bahama 	Computers/Programming	ask com 	0.000855
+tommy bahama 	Reference/Education	ask com 	0.000855
+tommy bahama 	Computers/Emulators	ask com 	0.000855
+tommy bahama 	Arts/Genres	ask com 	0.000855
+tommy bahama 	Society/Ethnicity	ask com 	0.000855
+tommy bahama 	Arts/Visual_Arts	ask com 	0.000855
+tommy bahama 	Regional/Europe	ask com 	0.000855
+tommy bahama 	Reference/Libraries	ask com 	0.000855
+tommy bahama 	Computers/Bulletin_Board_Systems	ask com 	0.000855
+tommy bahama 	Games/Hand_Games	ask com 	0.000855
+tommy bahama 	Reference/Knowledge_Management	ask com 	0.000855
+tommy bahama 	Games/Tile_Games	ask com 	0.000855
+tommy bahama 	Games/Conventions	ask com 	0.000855
+tommy bahama 	Computers/Artificial_Life	ask com 	0.000855
+tommy bahama 	Science/Earth_Sciences	ask com 	0.000855
+tommy bahama 	Computers/Artificial_Intelligence	ask com 	0.000855
+tommy bahama 	Recreation/Travel	ask com 	0.000855
+tommy bahama 	Computers/Hardware	ask com 	0.000855
+tommy bahama 	Business/Investing	ask com 	0.000855
+tommy bahama 	Home/Personal_Finance	ask com 	0.000855
+tommy bahama 	Computers/Computer_Science	ask com 	0.000855
+tommy bahama 	Recreation/Pets	ask com 	0.000855
+tommy bahama 	Health/Senses	ask com 	0.000855
+tommy bahama 	Recreation/Humor	ask com 	0.000855
+tommy bahama 	Society/Support_Groups	ask com 	0.000855
+tommy bahama 	Society/Military	ask com 	0.000855
+tommy bahama 	Games/Puzzles	ask com 	0.000855
+tommy bahama 	Science/Methods_and_Techniques	ask com 	0.000855
+tommy bahama 	Computers/Desktop_Publishing	ask com 	0.000855
+tommy bahama 	Society/Subcultures	ask com 	0.000855
+tommy bahama 	Regional/Oceania	ask com 	0.000855
+tommy bahama 	Science/Reference	ask com 	0.000855
+tommy bahama 	Sports/Kabbadi	ask com 	0.000855
+tommy bahama 	Games/Gambling	ask com 	0.000855
+tommy bahama 	Sports/Rounders	ask com 	0.000855
+tommy bahama 	Reference/Maps	ask com 	0.000855
+tommy bahama 	Society/Activism	ask com 	0.000855
+tommy bahama 	Sports/Winter_Sports	ask com 	0.000855
+tommy bahama 	Society/History	ask com 	0.000855
+tommy bahama 	Society/People	ask com 	0.000855
+tommy bahama 	Games/Paper_and_Pencil	ask com 	0.000855
+tommy bahama 	Games/Yard_Deck_and_Table_Games	ask com 	0.000855
+tommy bahama 	Business/Financial_Services	ask com 	0.000855
+tommy bahama 	Science/Physics	ask com 	0.000855
+tommy bahama 	Sports/Water_Sports	ask com 	0.000855
+tommy bahama 	Science/Technology	ask com 	0.000855
+tommy bahama 	Computers/Robotics	ask com 	0.000855
+tommy bahama 	Science/Anomalies_and_Alternative_Science	ask com 	0.000855
+tommy bahama 	Society/Lifestyle_Choices	ask com 	0.000855
+tommy bahama 	Reference/Flags	ask com 	0.000855
+tommy bahama 	Computers/Open_Source	ask com 	0.000855
+tommy bahama 	Society/Holidays	ask com 	0.000855
+tommy bahama 	Computers/Algorithms	ask com 	0.000855
+hollister 	Shopping/Clothing	kb toys 	0.916667
+hollister 	Business/Consumer_Goods_and_Services	kb toys 	0.041667
+hollister 	Business/Arts_and_Entertainment	kb toys 	0.041667
+home depot 	Regional/North_America	babiesrus 	0.500000
+home depot 	Shopping/Home_and_Garden	babiesrus 	0.500000
+express scripts 	Shopping/Health	wallgreens com 	0.266667
+express scripts 	Regional/North_America	wallgreens com 	0.134359
+express scripts 	Business/Financial_Services	wallgreens com 	0.134359
+express scripts 	Health/Pharmacy	wallgreens com 	0.067692
+express scripts 	Health/Conditions_and_Diseases	wallgreens com 	0.067692
+express scripts 	Reference/Dictionaries	wallgreens com 	0.066667
+express scripts 	Society/Philanthropy	wallgreens com 	0.066667
+express scripts 	Home/Gardening	wallgreens com 	0.001026
+express scripts 	Arts/Music	wallgreens com 	0.001026
+express scripts 	News/Newspapers	wallgreens com 	0.001026
+express scripts 	Home/Cooking	wallgreens com 	0.001026
+express scripts 	World/Español	wallgreens com 	0.001026
+express scripts 	Business/Food_and_Related_Products	wallgreens com 	0.001026
+express scripts 	Games/Roleplaying	wallgreens com 	0.001026
+express scripts 	Computers/Virtual_Reality	wallgreens com 	0.001026
+express scripts 	Computers/Companies	wallgreens com 	0.001026
+express scripts 	Computers/Graphics	wallgreens com 	0.001026
+express scripts 	Sports/Cycling	wallgreens com 	0.001026
+express scripts 	Arts/Literature	wallgreens com 	0.001026
+express scripts 	Games/Coin-Op	wallgreens com 	0.001026
+express scripts 	Business/Transportation_and_Logistics	wallgreens com 	0.001026
+express scripts 	News/Media	wallgreens com 	0.001026
+express scripts 	Sports/Cricket	wallgreens com 	0.001026
+express scripts 	Recreation/Collecting	wallgreens com 	0.001026
+express scripts 	Regional/South_America	wallgreens com 	0.001026
+express scripts 	Home/Homeowners	wallgreens com 	0.001026
+express scripts 	Sports/Skating	wallgreens com 	0.001026
+express scripts 	Science/Agriculture	wallgreens com 	0.001026
+express scripts 	Society/Gay_Lesbian_and_Bisexual	wallgreens com 	0.001026
+express scripts 	Health/Nutrition	wallgreens com 	0.001026
+express scripts 	Business/Cooperatives	wallgreens com 	0.001026
+express scripts 	Health/Animal	wallgreens com 	0.001026
+express scripts 	Society/Relationships	wallgreens com 	0.001026
+express scripts 	Science/Chemistry	wallgreens com 	0.001026
+express scripts 	Computers/Mobile_Computing	wallgreens com 	0.001026
+express scripts 	Business/Business_Services	wallgreens com 	0.001026
+express scripts 	Computers/CAD_and_CAM	wallgreens com 	0.001026
+express scripts 	Games/Party_Games	wallgreens com 	0.001026
+express scripts 	Sports/Events	wallgreens com 	0.001026
+express scripts 	Business/Healthcare	wallgreens com 	0.001026
+express scripts 	Games/Online	wallgreens com 	0.001026
+express scripts 	Health/Alternative	wallgreens com 	0.001026
+express scripts 	Society/Death	wallgreens com 	0.001026
+express scripts 	Health/Men's_Health	wallgreens com 	0.001026
+express scripts 	Business/Retail_Trade	wallgreens com 	0.001026
+express scripts 	Games/Trading_Card_Games	wallgreens com 	0.001026
+express scripts 	Computers/Education	wallgreens com 	0.001026
+express scripts 	Arts/Performing_Arts	wallgreens com 	0.001026
+express scripts 	Computers/Software	wallgreens com 	0.001026
+express scripts 	Arts/Architecture	wallgreens com 	0.001026
+express scripts 	Arts/Photography	wallgreens com 	0.001026
+express scripts 	Business/Marketing_and_Advertising	wallgreens com 	0.001026
+express scripts 	Health/Mental_Health	wallgreens com 	0.001026
+express scripts 	Games/Video_Games	wallgreens com 	0.001026
+express scripts 	Recreation/Drugs	wallgreens com 	0.001026
+express scripts 	Computers/Systems	wallgreens com 	0.001026
+express scripts 	Science/Environment	wallgreens com 	0.001026
+express scripts 	Recreation/Locks	wallgreens com 	0.001026
+express scripts 	Arts/Writers_Resources	wallgreens com 	0.001026
+express scripts 	Regional/Asia	wallgreens com 	0.001026
+express scripts 	Arts/Animation	wallgreens com 	0.001026
+express scripts 	Sports/Basketball	wallgreens com 	0.001026
+express scripts 	Computers/Security	wallgreens com 	0.001026
+express scripts 	Society/Future	wallgreens com 	0.001026
+express scripts 	Sports/Football	wallgreens com 	0.001026
+express scripts 	Sports/Motorsports	wallgreens com 	0.001026
+express scripts 	News/Analysis_and_Opinion	wallgreens com 	0.001026
+express scripts 	Arts/Radio	wallgreens com 	0.001026
+express scripts 	Computers/E-Books	wallgreens com 	0.001026
+express scripts 	Business/Hospitality	wallgreens com 	0.001026
+express scripts 	Computers/Internet	wallgreens com 	0.001026
+express scripts 	Health/Child_Health	wallgreens com 	0.001026
+express scripts 	Computers/History	wallgreens com 	0.001026
+express scripts 	Games/Board_Games	wallgreens com 	0.001026
+express scripts 	Science/Biology	wallgreens com 	0.001026
+express scripts 	Sports/Tennis	wallgreens com 	0.001026
+express scripts 	Games/Miniatures	wallgreens com 	0.001026
+express scripts 	Sports/Cue_Sports	wallgreens com 	0.001026
+express scripts 	Sports/Wrestling	wallgreens com 	0.001026
+express scripts 	Regional/Middle_East	wallgreens com 	0.001026
+express scripts 	Health/Addictions	wallgreens com 	0.001026
+express scripts 	Computers/Speech_Technology	wallgreens com 	0.001026
+express scripts 	Business/Industrial_Goods_and_Services	wallgreens com 	0.001026
+express scripts 	Society/Politics	wallgreens com 	0.001026
+express scripts 	Sports/Korfball	wallgreens com 	0.001026
+express scripts 	Recreation/Outdoors	wallgreens com 	0.001026
+express scripts 	Society/Issues	wallgreens com 	0.001026
+express scripts 	World/Deutsch	wallgreens com 	0.001026
+express scripts 	Health/Medicine	wallgreens com 	0.001026
+express scripts 	Society/Religion_and_Spirituality	wallgreens com 	0.001026
+express scripts 	Recreation/Food	wallgreens com 	0.001026
+express scripts 	Regional/Africa	wallgreens com 	0.001026
+express scripts 	Regional/Caribbean	wallgreens com 	0.001026
+express scripts 	Computers/Data_Formats	wallgreens com 	0.001026
+express scripts 	Sports/Informal_Sports	wallgreens com 	0.001026
+express scripts 	Sports/Croquet	wallgreens com 	0.001026
+express scripts 	Games/Card_Games	wallgreens com 	0.001026
+express scripts 	Sports/Track_and_Field	wallgreens com 	0.001026
+express scripts 	Sports/Equestrian	wallgreens com 	0.001026
+express scripts 	Sports/Laser_Games	wallgreens com 	0.001026
+express scripts 	Business/Arts_and_Entertainment	wallgreens com 	0.001026
+express scripts 	Arts/People	wallgreens com 	0.001026
+express scripts 	Society/Folklore	wallgreens com 	0.001026
+express scripts 	Computers/Multimedia	wallgreens com 	0.001026
+express scripts 	Arts/Crafts	wallgreens com 	0.001026
+express scripts 	Sports/Soccer	wallgreens com 	0.001026
+express scripts 	Sports/Gaelic	wallgreens com 	0.001026
+express scripts 	Arts/Graphic_Design	wallgreens com 	0.001026
+express scripts 	Sports/Boxing	wallgreens com 	0.001026
+express scripts 	Science/Science_in_Society	wallgreens com 	0.001026
+express scripts 	Society/Crime	wallgreens com 	0.001026
+express scripts 	Sports/Martial_Arts	wallgreens com 	0.001026
+express scripts 	Reference/Time	wallgreens com 	0.001026
+express scripts 	Business/Employment	wallgreens com 	0.001026
+express scripts 	Arts/Design	wallgreens com 	0.001026
+express scripts 	Computers/Usenet	wallgreens com 	0.001026
+express scripts 	Science/Events	wallgreens com 	0.001026
+express scripts 	Society/Law	wallgreens com 	0.001026
+express scripts 	Sports/Extreme_Sports	wallgreens com 	0.001026
+express scripts 	Arts/Movies	wallgreens com 	0.001026
+express scripts 	Arts/Television	wallgreens com 	0.001026
+express scripts 	Society/Government	wallgreens com 	0.001026
+express scripts 	Society/Sexuality	wallgreens com 	0.001026
+express scripts 	Society/Paranormal	wallgreens com 	0.001026
+express scripts 	Science/Social_Sciences	wallgreens com 	0.001026
+express scripts 	Regional/Central_America	wallgreens com 	0.001026
+express scripts 	Society/Philosophy	wallgreens com 	0.001026
+express scripts 	Arts/Illustration	wallgreens com 	0.001026
+express scripts 	Arts/Art_History	wallgreens com 	0.001026
+express scripts 	Arts/Comics	wallgreens com 	0.001026
+express scripts 	Science/Astronomy	wallgreens com 	0.001026
+express scripts 	Sports/Pesäpallo	wallgreens com 	0.001026
+express scripts 	Recreation/Models	wallgreens com 	0.001026
+express scripts 	Recreation/Scouting	wallgreens com 	0.001026
+express scripts 	Health/Women's_Health	wallgreens com 	0.001026
+express scripts 	Arts/Classical_Studies	wallgreens com 	0.001026
+express scripts 	Science/Math	wallgreens com 	0.001026
+express scripts 	Sports/Hockey	wallgreens com 	0.001026
+express scripts 	Arts/Awards	wallgreens com 	0.001026
+express scripts 	Computers/Programming	wallgreens com 	0.001026
+express scripts 	Reference/Education	wallgreens com 	0.001026
+express scripts 	Computers/Emulators	wallgreens com 	0.001026
+express scripts 	Arts/Genres	wallgreens com 	0.001026
+express scripts 	Society/Organizations	wallgreens com 	0.001026
+express scripts 	Society/Ethnicity	wallgreens com 	0.001026
+express scripts 	Arts/Visual_Arts	wallgreens com 	0.001026
+express scripts 	Regional/Europe	wallgreens com 	0.001026
+express scripts 	Reference/Libraries	wallgreens com 	0.001026
+express scripts 	Computers/Bulletin_Board_Systems	wallgreens com 	0.001026
+express scripts 	Games/Hand_Games	wallgreens com 	0.001026
+express scripts 	Reference/Knowledge_Management	wallgreens com 	0.001026
+express scripts 	Games/Tile_Games	wallgreens com 	0.001026
+express scripts 	Games/Conventions	wallgreens com 	0.001026
+express scripts 	Computers/Artificial_Life	wallgreens com 	0.001026
+express scripts 	Science/Earth_Sciences	wallgreens com 	0.001026
+express scripts 	Computers/Artificial_Intelligence	wallgreens com 	0.001026
+express scripts 	Recreation/Travel	wallgreens com 	0.001026
+express scripts 	Business/Investing	wallgreens com 	0.001026
+express scripts 	Sports/Baseball	wallgreens com 	0.001026
+express scripts 	Home/Personal_Finance	wallgreens com 	0.001026
+express scripts 	Computers/Computer_Science	wallgreens com 	0.001026
+express scripts 	Sports/Golf	wallgreens com 	0.001026
+express scripts 	Recreation/Pets	wallgreens com 	0.001026
+express scripts 	Health/Senses	wallgreens com 	0.001026
+express scripts 	Recreation/Humor	wallgreens com 	0.001026
+express scripts 	Society/Support_Groups	wallgreens com 	0.001026
+express scripts 	Society/Military	wallgreens com 	0.001026
+express scripts 	Games/Puzzles	wallgreens com 	0.001026
+express scripts 	Science/Methods_and_Techniques	wallgreens com 	0.001026
+express scripts 	Computers/Desktop_Publishing	wallgreens com 	0.001026
+express scripts 	Society/Subcultures	wallgreens com 	0.001026
+express scripts 	Regional/Oceania	wallgreens com 	0.001026
+express scripts 	Science/Reference	wallgreens com 	0.001026
+express scripts 	Sports/Kabbadi	wallgreens com 	0.001026
+express scripts 	Games/Gambling	wallgreens com 	0.001026
+express scripts 	Sports/Rounders	wallgreens com 	0.001026
+express scripts 	Reference/Maps	wallgreens com 	0.001026
+express scripts 	Computers/Hardware	wallgreens com 	0.001026
+express scripts 	Society/Activism	wallgreens com 	0.001026
+express scripts 	Recreation/Autos	wallgreens com 	0.001026
+express scripts 	Sports/Winter_Sports	wallgreens com 	0.001026
+express scripts 	Society/History	wallgreens com 	0.001026
+express scripts 	Society/People	wallgreens com 	0.001026
+express scripts 	Health/Reproductive_Health	wallgreens com 	0.001026
+express scripts 	Games/Paper_and_Pencil	wallgreens com 	0.001026
+express scripts 	Games/Yard_Deck_and_Table_Games	wallgreens com 	0.001026
+express scripts 	Science/Physics	wallgreens com 	0.001026
+express scripts 	Sports/Water_Sports	wallgreens com 	0.001026
+express scripts 	Science/Technology	wallgreens com 	0.001026
+express scripts 	Computers/Robotics	wallgreens com 	0.001026
+express scripts 	Home/Consumer_Information	wallgreens com 	0.001026
+express scripts 	Health/Specific_Substances	wallgreens com 	0.001026
+express scripts 	Science/Anomalies_and_Alternative_Science	wallgreens com 	0.001026
+express scripts 	Society/Lifestyle_Choices	wallgreens com 	0.001026
+express scripts 	Reference/Flags	wallgreens com 	0.001026
+express scripts 	Computers/Open_Source	wallgreens com 	0.001026
+express scripts 	Society/Holidays	wallgreens com 	0.001026
+express scripts 	Computers/Algorithms	wallgreens com 	0.001026
+painting ideas 	Home/Home_Improvement	dutch boy paint 	1.000000
+kia 	Recreation/Autos	dodge 	1.000000
+tjmax 	Business/Retail_Trade	globus tours 	0.500000
+tjmax 	Regional/North_America	globus tours 	0.500000
+menards 	Regional/North_America	wal mart 	3.000000
+target 	Shopping/Weddings	entertainment tonight 	0.250000
+target 	Business/Retail_Trade	entertainment tonight 	0.250000
+target 	Regional/North_America	entertainment tonight 	0.250000
+target 	Shopping/General_Merchandise	entertainment tonight 	0.250000
+yafro 	Society/Relationships	incesttaboo com 	0.501282
+yafro 	Recreation/Picture_Ratings	incesttaboo com 	0.250000
+yafro 	Home/Gardening	incesttaboo com 	0.001282
+yafro 	Arts/Music	incesttaboo com 	0.001282
+yafro 	News/Newspapers	incesttaboo com 	0.001282
+yafro 	Home/Cooking	incesttaboo com 	0.001282
+yafro 	World/Español	incesttaboo com 	0.001282
+yafro 	Business/Food_and_Related_Products	incesttaboo com 	0.001282
+yafro 	Games/Roleplaying	incesttaboo com 	0.001282
+yafro 	Computers/Virtual_Reality	incesttaboo com 	0.001282
+yafro 	Computers/Companies	incesttaboo com 	0.001282
+yafro 	Computers/Graphics	incesttaboo com 	0.001282
+yafro 	Sports/Cycling	incesttaboo com 	0.001282
+yafro 	Arts/Literature	incesttaboo com 	0.001282
+yafro 	Games/Coin-Op	incesttaboo com 	0.001282
+yafro 	Business/Transportation_and_Logistics	incesttaboo com 	0.001282
+yafro 	News/Media	incesttaboo com 	0.001282
+yafro 	Sports/Cricket	incesttaboo com 	0.001282
+yafro 	Recreation/Collecting	incesttaboo com 	0.001282
+yafro 	Regional/South_America	incesttaboo com 	0.001282
+yafro 	Home/Homeowners	incesttaboo com 	0.001282
+yafro 	Sports/Skating	incesttaboo com 	0.001282
+yafro 	Science/Agriculture	incesttaboo com 	0.001282
+yafro 	Society/Gay_Lesbian_and_Bisexual	incesttaboo com 	0.001282
+yafro 	Health/Nutrition	incesttaboo com 	0.001282
+yafro 	Business/Cooperatives	incesttaboo com 	0.001282
+yafro 	Health/Animal	incesttaboo com 	0.001282
+yafro 	Science/Chemistry	incesttaboo com 	0.001282
+yafro 	Computers/Mobile_Computing	incesttaboo com 	0.001282
+yafro 	Business/Business_Services	incesttaboo com 	0.001282
+yafro 	Computers/CAD_and_CAM	incesttaboo com 	0.001282
+yafro 	Games/Party_Games	incesttaboo com 	0.001282
+yafro 	Sports/Events	incesttaboo com 	0.001282
+yafro 	Business/Healthcare	incesttaboo com 	0.001282
+yafro 	Games/Online	incesttaboo com 	0.001282
+yafro 	Health/Alternative	incesttaboo com 	0.001282
+yafro 	Society/Death	incesttaboo com 	0.001282
+yafro 	Health/Men's_Health	incesttaboo com 	0.001282
+yafro 	Business/Retail_Trade	incesttaboo com 	0.001282
+yafro 	Games/Trading_Card_Games	incesttaboo com 	0.001282
+yafro 	Computers/Education	incesttaboo com 	0.001282
+yafro 	Arts/Performing_Arts	incesttaboo com 	0.001282
+yafro 	Computers/Software	incesttaboo com 	0.001282
+yafro 	Arts/Architecture	incesttaboo com 	0.001282
+yafro 	Arts/Photography	incesttaboo com 	0.001282
+yafro 	Business/Marketing_and_Advertising	incesttaboo com 	0.001282
+yafro 	Health/Mental_Health	incesttaboo com 	0.001282
+yafro 	Health/Pharmacy	incesttaboo com 	0.001282
+yafro 	Games/Video_Games	incesttaboo com 	0.001282
+yafro 	Recreation/Drugs	incesttaboo com 	0.001282
+yafro 	Computers/Systems	incesttaboo com 	0.001282
+yafro 	Science/Environment	incesttaboo com 	0.001282
+yafro 	Recreation/Locks	incesttaboo com 	0.001282
+yafro 	Arts/Writers_Resources	incesttaboo com 	0.001282
+yafro 	Regional/Asia	incesttaboo com 	0.001282
+yafro 	Arts/Animation	incesttaboo com 	0.001282
+yafro 	Sports/Basketball	incesttaboo com 	0.001282
+yafro 	Computers/Security	incesttaboo com 	0.001282
+yafro 	Society/Future	incesttaboo com 	0.001282
+yafro 	Sports/Football	incesttaboo com 	0.001282
+yafro 	Sports/Motorsports	incesttaboo com 	0.001282
+yafro 	News/Analysis_and_Opinion	incesttaboo com 	0.001282
+yafro 	Arts/Radio	incesttaboo com 	0.001282
+yafro 	Computers/E-Books	incesttaboo com 	0.001282
+yafro 	Business/Hospitality	incesttaboo com 	0.001282
+yafro 	Computers/Internet	incesttaboo com 	0.001282
+yafro 	Health/Child_Health	incesttaboo com 	0.001282
+yafro 	Computers/History	incesttaboo com 	0.001282
+yafro 	Games/Board_Games	incesttaboo com 	0.001282
+yafro 	Science/Biology	incesttaboo com 	0.001282
+yafro 	Sports/Tennis	incesttaboo com 	0.001282
+yafro 	Games/Miniatures	incesttaboo com 	0.001282
+yafro 	Sports/Cue_Sports	incesttaboo com 	0.001282
+yafro 	Sports/Wrestling	incesttaboo com 	0.001282
+yafro 	Regional/Middle_East	incesttaboo com 	0.001282
+yafro 	Health/Addictions	incesttaboo com 	0.001282
+yafro 	Computers/Speech_Technology	incesttaboo com 	0.001282
+yafro 	Business/Industrial_Goods_and_Services	incesttaboo com 	0.001282
+yafro 	Society/Politics	incesttaboo com 	0.001282
+yafro 	Sports/Korfball	incesttaboo com 	0.001282
+yafro 	Recreation/Outdoors	incesttaboo com 	0.001282
+yafro 	Society/Issues	incesttaboo com 	0.001282
+yafro 	World/Deutsch	incesttaboo com 	0.001282
+yafro 	Computers/Multimedia	incesttaboo com 	0.001282
+yafro 	Health/Medicine	incesttaboo com 	0.001282
+yafro 	Society/Religion_and_Spirituality	incesttaboo com 	0.001282
+yafro 	Recreation/Food	incesttaboo com 	0.001282
+yafro 	Regional/Africa	incesttaboo com 	0.001282
+yafro 	Regional/Caribbean	incesttaboo com 	0.001282
+yafro 	Computers/Data_Formats	incesttaboo com 	0.001282
+yafro 	Sports/Informal_Sports	incesttaboo com 	0.001282
+yafro 	Sports/Croquet	incesttaboo com 	0.001282
+yafro 	Games/Card_Games	incesttaboo com 	0.001282
+yafro 	Sports/Track_and_Field	incesttaboo com 	0.001282
+yafro 	Sports/Equestrian	incesttaboo com 	0.001282
+yafro 	Sports/Laser_Games	incesttaboo com 	0.001282
+yafro 	Business/Arts_and_Entertainment	incesttaboo com 	0.001282
+yafro 	Arts/People	incesttaboo com 	0.001282
+yafro 	Society/Folklore	incesttaboo com 	0.001282
+yafro 	Regional/North_America	incesttaboo com 	0.001282
+yafro 	Arts/Crafts	incesttaboo com 	0.001282
+yafro 	Sports/Soccer	incesttaboo com 	0.001282
+yafro 	Sports/Gaelic	incesttaboo com 	0.001282
+yafro 	Arts/Graphic_Design	incesttaboo com 	0.001282
+yafro 	Sports/Boxing	incesttaboo com 	0.001282
+yafro 	Science/Science_in_Society	incesttaboo com 	0.001282
+yafro 	Society/Crime	incesttaboo com 	0.001282
+yafro 	Sports/Martial_Arts	incesttaboo com 	0.001282
+yafro 	Reference/Time	incesttaboo com 	0.001282
+yafro 	Business/Employment	incesttaboo com 	0.001282
+yafro 	Arts/Design	incesttaboo com 	0.001282
+yafro 	Computers/Usenet	incesttaboo com 	0.001282
+yafro 	Science/Events	incesttaboo com 	0.001282
+yafro 	Society/Law	incesttaboo com 	0.001282
+yafro 	Sports/Extreme_Sports	incesttaboo com 	0.001282
+yafro 	Arts/Movies	incesttaboo com 	0.001282
+yafro 	Arts/Television	incesttaboo com 	0.001282
+yafro 	Society/Government	incesttaboo com 	0.001282
+yafro 	Society/Sexuality	incesttaboo com 	0.001282
+yafro 	Society/Paranormal	incesttaboo com 	0.001282
+yafro 	Science/Social_Sciences	incesttaboo com 	0.001282
+yafro 	Regional/Central_America	incesttaboo com 	0.001282
+yafro 	Society/Philosophy	incesttaboo com 	0.001282
+yafro 	Arts/Illustration	incesttaboo com 	0.001282
+yafro 	Arts/Art_History	incesttaboo com 	0.001282
+yafro 	Arts/Comics	incesttaboo com 	0.001282
+yafro 	Science/Astronomy	incesttaboo com 	0.001282
+yafro 	Sports/Pesäpallo	incesttaboo com 	0.001282
+yafro 	Recreation/Models	incesttaboo com 	0.001282
+yafro 	Recreation/Scouting	incesttaboo com 	0.001282
+yafro 	Health/Women's_Health	incesttaboo com 	0.001282
+yafro 	Arts/Classical_Studies	incesttaboo com 	0.001282
+yafro 	Science/Math	incesttaboo com 	0.001282
+yafro 	Sports/Hockey	incesttaboo com 	0.001282
+yafro 	Arts/Awards	incesttaboo com 	0.001282
+yafro 	Computers/Programming	incesttaboo com 	0.001282
+yafro 	Reference/Education	incesttaboo com 	0.001282
+yafro 	Computers/Emulators	incesttaboo com 	0.001282
+yafro 	Arts/Genres	incesttaboo com 	0.001282
+yafro 	Society/Organizations	incesttaboo com 	0.001282
+yafro 	Society/Ethnicity	incesttaboo com 	0.001282
+yafro 	Arts/Visual_Arts	incesttaboo com 	0.001282
+yafro 	Regional/Europe	incesttaboo com 	0.001282
+yafro 	Reference/Libraries	incesttaboo com 	0.001282
+yafro 	Computers/Bulletin_Board_Systems	incesttaboo com 	0.001282
+yafro 	Games/Hand_Games	incesttaboo com 	0.001282
+yafro 	Reference/Knowledge_Management	incesttaboo com 	0.001282
+yafro 	Games/Tile_Games	incesttaboo com 	0.001282
+yafro 	Games/Conventions	incesttaboo com 	0.001282
+yafro 	Computers/Artificial_Life	incesttaboo com 	0.001282
+yafro 	Science/Earth_Sciences	incesttaboo com 	0.001282
+yafro 	Computers/Artificial_Intelligence	incesttaboo com 	0.001282
+yafro 	Recreation/Travel	incesttaboo com 	0.001282
+yafro 	Computers/Hardware	incesttaboo com 	0.001282
+yafro 	Business/Investing	incesttaboo com 	0.001282
+yafro 	Sports/Baseball	incesttaboo com 	0.001282
+yafro 	Home/Personal_Finance	incesttaboo com 	0.001282
+yafro 	Computers/Computer_Science	incesttaboo com 	0.001282
+yafro 	Sports/Golf	incesttaboo com 	0.001282
+yafro 	Recreation/Pets	incesttaboo com 	0.001282
+yafro 	Health/Senses	incesttaboo com 	0.001282
+yafro 	Recreation/Humor	incesttaboo com 	0.001282
+yafro 	Society/Support_Groups	incesttaboo com 	0.001282
+yafro 	Society/Military	incesttaboo com 	0.001282
+yafro 	Games/Puzzles	incesttaboo com 	0.001282
+yafro 	Science/Methods_and_Techniques	incesttaboo com 	0.001282
+yafro 	Computers/Desktop_Publishing	incesttaboo com 	0.001282
+yafro 	Society/Subcultures	incesttaboo com 	0.001282
+yafro 	Regional/Oceania	incesttaboo com 	0.001282
+yafro 	Science/Reference	incesttaboo com 	0.001282
+yafro 	Sports/Kabbadi	incesttaboo com 	0.001282
+yafro 	Games/Gambling	incesttaboo com 	0.001282
+yafro 	Sports/Rounders	incesttaboo com 	0.001282
+yafro 	Reference/Maps	incesttaboo com 	0.001282
+yafro 	Health/Conditions_and_Diseases	incesttaboo com 	0.001282
+yafro 	Society/Activism	incesttaboo com 	0.001282
+yafro 	Recreation/Autos	incesttaboo com 	0.001282
+yafro 	Sports/Winter_Sports	incesttaboo com 	0.001282
+yafro 	Society/History	incesttaboo com 	0.001282
+yafro 	Society/People	incesttaboo com 	0.001282
+yafro 	Health/Reproductive_Health	incesttaboo com 	0.001282
+yafro 	Games/Paper_and_Pencil	incesttaboo com 	0.001282
+yafro 	Games/Yard_Deck_and_Table_Games	incesttaboo com 	0.001282
+yafro 	Business/Financial_Services	incesttaboo com 	0.001282
+yafro 	Science/Physics	incesttaboo com 	0.001282
+yafro 	Sports/Water_Sports	incesttaboo com 	0.001282
+yafro 	Science/Technology	incesttaboo com 	0.001282
+yafro 	Computers/Robotics	incesttaboo com 	0.001282
+yafro 	Home/Consumer_Information	incesttaboo com 	0.001282
+yafro 	Health/Specific_Substances	incesttaboo com 	0.001282
+yafro 	Science/Anomalies_and_Alternative_Science	incesttaboo com 	0.001282
+yafro 	Society/Lifestyle_Choices	incesttaboo com 	0.001282
+yafro 	Reference/Flags	incesttaboo com 	0.001282
+yafro 	Computers/Open_Source	incesttaboo com 	0.001282
+yafro 	Society/Holidays	incesttaboo com 	0.001282
+yafro 	Computers/Algorithms	incesttaboo com 	0.001282
+www garfield com 	Arts/Animation	www cartoonnetwork com 	0.333333
+www garfield com 	Games/Video_Games	www cartoonnetwork com 	0.333333
+www garfield com 	Arts/Comics	www cartoonnetwork com 	0.333333
+bbcnews com 	Home/Cooking	espn com 	0.008000
+bbcnews com 	Regional/South_America	espn com 	0.008000
+bbcnews com 	World/Russian	espn com 	0.008000
+bbcnews com 	Society/Relationships	espn com 	0.008000
+bbcnews com 	Sports/Events	espn com 	0.008000
+bbcnews com 	Reference/Knots	espn com 	0.008000
+bbcnews com 	Health/Pharmacy	espn com 	0.008000
+bbcnews com 	Sports/Disabled	espn com 	0.008000
+bbcnews com 	Sports/Basketball	espn com 	0.008000
+bbcnews com 	Sports/Motorsports	espn com 	0.008000
+bbcnews com 	Computers/Internet	espn com 	0.008000
+bbcnews com 	News/Media	espn com 	0.008000
+bbcnews com 	Society/Issues	espn com 	0.008000
+bbcnews com 	Science/News_and_Media	espn com 	0.008000
+bbcnews com 	Society/Religion_and_Spirituality	espn com 	0.008000
+bbcnews com 	Society/Government	espn com 	0.008000
+bbcnews com 	Science/Social_Sciences	espn com 	0.008000
+bbcnews com 	Society/Philosophy	espn com 	0.008000
+bbcnews com 	Arts/Art_History	espn com 	0.008000
+bbcnews com 	Science/Earth_Sciences	espn com 	0.008000
+bbcnews com 	Computers/Hardware	espn com 	0.008000
+bbcnews com 	Sports/Golf	espn com 	0.008000
+bbcnews com 	Society/Subcultures	espn com 	0.008000
+bbcnews com 	Reference/Maps	espn com 	0.008000
+bbcnews com 	Science/Physics	espn com 	0.008000
+bbcnews com 	Computers/Robotics	espn com 	0.008000
+bbcnews com 	Science/Anomalies_and_Alternative_Science	espn com 	0.008000
+bbcnews com 	Arts/Music	espn com 	0.008000
+bbcnews com 	Science/Biology	espn com 	0.008000
+bbcnews com 	Society/Work	espn com 	0.008000
+bbcnews com 	Sports/Cycling	espn com 	0.008000
+bbcnews com 	Arts/Literature	espn com 	0.008000
+bbcnews com 	Arts/Animation	espn com 	0.008000
+bbcnews com 	Computers/Security	espn com 	0.008000
+bbcnews com 	Recreation/Aviation	espn com 	0.008000
+bbcnews com 	Society/Politics	espn com 	0.008000
+bbcnews com 	Recreation/Outdoors	espn com 	0.008000
+bbcnews com 	Recreation/Food	espn com 	0.008000
+bbcnews com 	Computers/Data_Formats	espn com 	0.008000
+bbcnews com 	Sports/Track_and_Field	espn com 	0.008000
+bbcnews com 	Business/Arts_and_Entertainment	espn com 	0.008000
+bbcnews com 	World/Chinese_Traditional	espn com 	0.008000
+bbcnews com 	Sports/Boxing	espn com 	0.008000
+bbcnews com 	Computers/Hacking	espn com 	0.008000
+bbcnews com 	World/Arabic	espn com 	0.008000
+bbcnews com 	Regional/Central_America	espn com 	0.008000
+bbcnews com 	News/Extended_Coverage	espn com 	0.008000
+bbcnews com 	Society/Ethnicity	espn com 	0.008000
+bbcnews com 	Recreation/Humor	espn com 	0.008000
+bbcnews com 	Society/History	espn com 	0.008000
+bbcnews com 	Business/Aerospace_and_Defense	espn com 	0.008000
+bbcnews com 	Health/Specific_Substances	espn com 	0.008000
+bbcnews com 	Sports/Tennis	espn com 	0.008000
+bbcnews com 	Computers/Companies	espn com 	0.008000
+bbcnews com 	Health/Addictions	espn com 	0.008000
+bbcnews com 	Sports/Cricket	espn com 	0.008000
+bbcnews com 	Science/Agriculture	espn com 	0.008000
+bbcnews com 	Health/Animal	espn com 	0.008000
+bbcnews com 	Health/Alternative	espn com 	0.008000
+bbcnews com 	Health/Men's_Health	espn com 	0.008000
+bbcnews com 	Arts/Performing_Arts	espn com 	0.008000
+bbcnews com 	News/Weather	espn com 	0.008000
+bbcnews com 	Computers/Systems	espn com 	0.008000
+bbcnews com 	Regional/Asia	espn com 	0.008000
+bbcnews com 	Society/Future	espn com 	0.008000
+bbcnews com 	Computers/Programming	espn com 	0.008000
+bbcnews com 	Health/Child_Health	espn com 	0.008000
+bbcnews com 	Computers/History	espn com 	0.008000
+bbcnews com 	Regional/Middle_East	espn com 	0.008000
+bbcnews com 	Health/Medicine	espn com 	0.008000
+bbcnews com 	Regional/Caribbean	espn com 	0.008000
+bbcnews com 	Sports/Equestrian	espn com 	0.008000
+bbcnews com 	Regional/Europe	espn com 	0.008000
+bbcnews com 	Sports/Resources	espn com 	0.008000
+bbcnews com 	Regional/North_America	espn com 	0.008000
+bbcnews com 	Sports/Soccer	espn com 	0.008000
+bbcnews com 	Home/Family	espn com 	0.008000
+bbcnews com 	Sports/Football	espn com 	0.008000
+bbcnews com 	Sports/Extreme_Sports	espn com 	0.008000
+bbcnews com 	Society/Crime	espn com 	0.008000
+bbcnews com 	Society/Paranormal	espn com 	0.008000
+bbcnews com 	Games/Hand-Eye_Coordination	espn com 	0.008000
+bbcnews com 	Arts/Radio	espn com 	0.008000
+bbcnews com 	Reference/Education	espn com 	0.008000
+bbcnews com 	Sports/Darts	espn com 	0.008000
+bbcnews com 	Regional/Africa	espn com 	0.008000
+bbcnews com 	Health/Conditions_and_Diseases	espn com 	0.008000
+bbcnews com 	Computers/Open_Source	espn com 	0.008000
+bbcnews com 	Recreation/Pets	espn com 	0.008000
+bbcnews com 	Games/Puzzles	espn com 	0.008000
+bbcnews com 	Sports/Winter_Sports	espn com 	0.008000
+bbcnews com 	Computers/Artificial_Intelligence	espn com 	0.008000
+bbcnews com 	Society/Holidays	espn com 	0.008000
+bbcnews com 	Arts/Design	espn com 	0.008000
+bbcnews com 	Games/Yard_Deck_and_Table_Games	espn com 	0.008000
+bbcnews com 	Home/Homeowners	espn com 	0.008000
+bbcnews com 	Games/Video_Games	espn com 	0.008000
+bbcnews com 	Science/Environment	espn com 	0.008000
+bbcnews com 	Regional/Oceania	espn com 	0.008000
+bbcnews com 	Health/Women's_Health	espn com 	0.008000
+bbcnews com 	Computers/Software	espn com 	0.008000
+bbcnews com 	Arts/Architecture	espn com 	0.008000
+bbcnews com 	Society/Military	espn com 	0.008000
+bbcnews com 	Health/Mental_Health	espn com 	0.008000
+bbcnews com 	World/Español	espn com 	0.008000
+bbcnews com 	Science/Science_in_Society	espn com 	0.008000
+bbcnews com 	Arts/People	espn com 	0.008000
+bbcnews com 	Sports/Gaelic	espn com 	0.008000
+bbcnews com 	Arts/Graphic_Design	espn com 	0.008000
+bbcnews com 	Arts/Movies	espn com 	0.008000
+bbcnews com 	Arts/Television	espn com 	0.008000
+bbcnews com 	Arts/Bodyart	espn com 	0.008000
+bbcnews com 	Arts/Comics	espn com 	0.008000
+bbcnews com 	Science/Astronomy	espn com 	0.008000
+bbcnews com 	News/Current_Events	espn com 	0.008000
+bbcnews com 	Games/Board_Games	espn com 	0.008000

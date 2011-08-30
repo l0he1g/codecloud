@@ -1,0 +1,13 @@
+# for test
+#data_pt = qt_share_ru.voca.test
+# dimension of features
+#feature_dimension = 10
+
+# max diameter of a cluster
+threshold = 1
+# for qr, words must keep in ascending order in cluster
+data_pt = /home/xh/mypaper/ppf/code/msn2/Test/cacb/mid/query_url.voca
+result_pt = result/q_cluster.voca
+# num of url
+feature_dimension = 465917
+
