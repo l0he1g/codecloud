@@ -1,4 +1,4 @@
-* webAna余老师修改
+* webAna
 ** weblog字段说明:
    1:time|2:uid|3:uip|4:url|5:domain|6:host|7:refer|8:title|9:words|10:has_cookie 
    refer,title,words可能为空
