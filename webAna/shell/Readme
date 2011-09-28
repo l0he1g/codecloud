@@ -1,0 +1,47 @@
+[hive]
+一、天计算
+1. ./create_tb.sh  创建hive表
+验证：
+cd ~(务必在~目录下操作)
+1) hive -e "show tables;"
+结果:
+hostcate_notdropme
+hostrefer_notdropme
+hostse_notdropme
+weblog_notdropme
+worddomain_notdropme
+wordhost_notdropme
+wordlog_medium
+words_notdropme
+worduid_notdropme
+wordurl_notdropme
+2) hive -e "select * from hostcate_notdropme limit 3;"
+结果：
+BT资源	0	bt.btchina.net
+BT资源	0	movie.kuaiche.com
+BT资源	0	www.btgod.com
+
+2. ./main.sh 改脚本自动搜寻input中天数据
+
+3.最终/home/hadoop/webAna/outdata中共20个文件夹
+domains    domainuip  hosts   hostuid  majorcates    majorcateuip  subcateuid  urls    urluip  worduid
+domainuid  hostrefer  hostse  hostuip  majorcateuid  subcates
+subcateuip  urluid  words   worduip
+
+
+二、时间段计算
+1. ./week <date> 或./month <date>
+keywords       keywordurl   keyworduid  majorcates  hostse
+keyworddomain  keywordhost  subcates    hostrefer
+
+[Mysql]
+1. sql/*.sql 创建相应的数据库、表和存储过程
+2. 执行mysql.sh,将结果文件解压，并调用load_day.php或load_week.php
+
+三、出错处理
+1. 重新计算
+   如果程序中途出错，需要重新计算，只需再main.sh中设定重新计算的
+   day.sh,重新执行main.sh即可.
+   （因为hive会自动覆盖原有表，所以无须清理hive表。
+   dayimport会根据dayimport.log判断day数据是否已经导入，所以不会重新导
+   入.）

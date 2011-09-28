@@ -1,0 +1,34 @@
+上传数据不变
+
+返回数据
+
+饼图：
+
+operation:0
+
+返回 {success:true,results:2,rows:[{word:'word1',rate:13},{word:'word2',rate:13}]}
+
+
+
+左侧表格：
+
+operation:1
+
+返回 {success:true,results:2,rows:[{'word':'word2','rate':73,'google':13,'baidu':13,'others':13},{'word':'word3','rate':13,'google':13,'baidu':13,'others':13}]}
+
+
+
+右侧表格：
+
+operation:2
+
+当点击左侧表格每一行后，会向后台发送word:'word2/word3'的信息
+
+后台返回 {success:true,results:3,rows:[{'host':'baidu.com','rate':13},{'host':'google.com','rate':13},{'host':'yahoo.com','rate':74}]}
+
+
+
+注意：
+
+'rate'字段为比率，float型，且不加'%'
+

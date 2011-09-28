@@ -1,0 +1,28 @@
+/* index.php */
+
+/*面板*/
+div.select_panel{
+	background:#AFD0FF;
+}
+/*西部树*/
+img.nav_icon{
+	background:url(../images/circle_blue.png);
+}
+div.hotWordsBox{
+	margin:5px;
+}
+div.hotWordsBox h2{
+
+}
+span.hotWords{
+	color:#DF8D00;
+	cursor:pointer;
+	font-size:13px;
+	font-weight:bold;
+	line-height:20px;
+	margin:13px;
+}
+/*南部面板*/
+div.footer{
+	text-align:center;
+}

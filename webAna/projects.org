@@ -1,0 +1,385 @@
+* webAna余老师修改
+** weblog字段说明:
+   1:time|2:uid|3:uip|4:url|5:domain|6:host|7:refer|8:title|9:words|10:has_cookie 
+   refer,title,words可能为空
+** 每天的处理流程:
+   main.sh(启动)
+   ->load_data.sh(dayimport将每天的weblog导入hive)
+   --->day.sh 天数据统计，并导出文件，scp到http服务器 
+   ----->keywords.sh:
+   ----->websites.sh:cate_proc,domain_proc,host_proc,url_proc
+   ----->host.sh:hostrefer_proc,hostse_proc
+   >>>>>>>>>>数据打包scp到http服务器>>>>>>>>>>>
+   websitesdb.sql
+** 每周/月的处理流程
+   ->week.sh 计算出起始日期和终止日期
+   --->w_keywords.sh
+   --->w_websites.sh:domain_proc,host_proc,url_proc
+   --->w_hosts.sh:host_proc
+** hive表结构:
+   1. weblog_notdropme
+   2. keywords
+   3. keyworduid
+   4. keyworduip
+   5. keyworddomain
+   6. keywordhost
+   7. keywordurl
+   8. hostrefer_notdropme
+   9. hostse_notdropme
+** test
+*** hive统计并导出数据
+	查询类型     3w记录中min次数
+	domains         2
+	domainuid       18
+	domainuip       17
+	domainhost      4
+	doaminurl       7
+	hosts         4
+	hostuid       16
+	hostuip       15
+	hosturl       7
+	urls         7
+	urluid       5
+	urluip       4
+	hostrefer    2
+	hostse       1
+*** mysql建表和存储过程
+	
+** 设计概要
+*** 将分表改成分区，因为表太多时，要修改很麻烦。缺点，少量tid数据冗余，但可接受。
+** 后续改进:
+*** 网站分类改进:取消子分类为0的分类
+*** $city,目前只是放在config中定制
+*** mails失效，日志改进,打包后，删除原文件
+* webAna
+** weblog字段说明:
+   0:time|1:ip|2:hosturi|3:pagepath|4:client|5:refer|6:cookie
+   3,4,5,6都可能为空
+** 流程
+   1. load_data.sh 
+	  1) dayimport 改脚本将Vegacloud/urldata下所有的日数据导入到hive的
+		 weblog_notdropme中，然后将导完的数据移到urldata_done目录下
+	  2) dayprocess 抽取天数据到hostrank_notdropme
+		 此处无须对num排序，只需cluster by host即可
+   2. week_proc.sh 
+	  1) 每周:每周的周一将上周的hostrank,hoststream,hostsekywords,
+		 hostrank数据进行统计
+	  2) 定期:导出周时间段数据本地文件,scp到uils145
+   3. month_proc.sh 
+	  1) 每月:每月的第一天将上月的hostrank,hoststream,hostsekywords,
+		 hostrank数据进行统计
+	  2) 定期:导出月数据本地文件,scp到uils145
+   4. season_proc.sh 
+	  1) 每季度:每周的周一将上季度的hostrank,hoststream,hostsekywords,
+		 hostrank数据进行统计
+	  2) 定期:导出季度数据本地文件,scp到uils145
+** hive上的notdropme表说明:
+   1. 原始日志表 weblog_notdropme
+	  create table weblog_notdropme(time string,ip string,
+	  host string,page string,
+	  info string,refer string,
+	  cookie string)
+	  partitioned by( dt string,city string)
+	  clustered by(host) into 64 buckets 
+	  row format delimited 
+	  fields terminated by '|';
+   2. host访问排名表 hostrank_notdropme
+	  create table hostrank_notdropme(host string,num bigint)
+	  partitioned by (dt string,city string)
+	  clustered by (host) sorted by (num) into 64 buckets;
+   3. 搜索关键词排名表 sekeywords_notdropme
+	  create table sekeywords_notdropme(
+	  host string,word string,num bigint)
+	  partitioned by (dt string,city string)
+	  clustered by (host) sorted by (num) into 64 buckets;
+   4. 上下游网站排名 hostrank_notdropme
+	  create table hoststream_notdropme(host string,refer_host string,num bigint)
+	  partitioned by (dt string,city string)
+	  clustered by (host) sorted by (num) into 64 buckets;
+
+** 以domain为例
+   day表:domains，domainuid,domainuip
+   phase表:domainhost,domainurl,domainuid,有domains，但没domainuip
+* hcdata <2009-03-01 日>
+** mysql record:
+*** 给远程用户赋予权限登录：grant ALL on hcdata.* to 'root'@'%' identified by '123456';
+	ALL 权限,hcdata.* 该数据库的所有表，root 用户，% 远程用户（也可是IP），123456 密码
+*** user_keywords表
+**** create table user_keywords(uid varchar(50) primary key,keys varchar(2048) null);
+**** load data infile '/var/www/htdocs/data/1' into table user_keywords \ 
+	 CHARACTER SET UTF8 FIELDS TERMINATED BY '\t|' ESCAPED BY '\\' (uid,keywords);
+**** 增加全文索引：alter ignore table user_keywords add fulltext index kw_index (`keywords`) with parser mysqlcft;
+**** 检索:select uid,`keys` from user_keywords where match(`keys`) against('数据' in boolean mode);
+	 必须加上in boolean mode,否则结果不怎么准确.
+*** user_url_day\user_url_day表
+**** create table user_url_day(id int(16) primary key auto_increment,uid varchar(50) not null,
+	 url varchar(64) not null,visit_day date not null,rate int(5) not null);
+**** load data infile '/var/www/htdocs/data/user_url_week_01' into table user_url_day \
+	 CHARACTER SET UTF8 FIELDS TERMINATED BY '|' ESCAPED BY '\\' (uid,url,visit_day,rate);
+**** create table user_url_week_01(id int(16) primary key auto_increment,
+	 uid varchar(50) not null,url varchar(64) not null,visit_day date not null,rate int(5) not null);
+**** load data infile '/var/www/htdocs/data/user_url_week_01' into table user_url_week_01 \
+	 CHARACTER SET UTF8 FIELDS TERMINATED BY '|' ESCAPED BY '\\' (uid,url,visit_day,rate);
+*** user_url_week_01表
+*** domain_rate_day表
+**** create table domain_rate_day(id int(16) primary key auto_increment,rate int(16) not null,\
+	 domain varchar(64) not null,visit_day date not null);
+**** load data infile '/var/www/htdocs/data/domain_rate_day' into table domain_rate_day \
+	 CHARACTER SET UTF8 FIELDS TERMINATED BY '|' ESCAPED BY '\\' (rate,domain,visit_day);
+
+*** domain_rate_week_*表
+**** create table domain_rate_week_02(id int(16) primary key auto_increment,\
+	 rate int(16) not null,domain varchar(64) not null,visit_day date not null);
+**** load data infile '/var/www/htdocs/data/domain_rate_day' into table domain_rate_week_01\
+	 CHARACTER SET UTF8 FIELDS TERMINATED BY '|' ESCAPED BY '\\'
+     ignore 44 lines (rate,domain,visit_day);
+*** host表:
+	create table host(id int(10) primary key auto_increment,name char(255) null,word varchar(255) null,fulltext index `word_index` (`word`) WITH PARSER mysqlcft);
+	mysqldump -uroot -p --default-character-set>latin1  hcdata host > /mysql/a.sql
+** Mysql sequence:
+*** 创建user_keywords表:
+   CREATE TABLE `user_keywords` (
+   `uid` varchar(50),
+   `keys` varchar(2048),
+   PRIMARY KEY (`uid`),
+   FULLTEXT KEY `key_index` (`keys`) WITH PARSER mysqlcft
+   ) ENGINE>MyISAM DEFAULT CHARSET>utf8; 
+*** 创建
+** Problem solved:
+*** mysqlcft全文检索插件不能读取Tab--将Tab键换成";"
+*** mysqlcft全文检索的字段必须加`（撇号而非单引号,select和match处都要加）,另外一个问题，全文检索时，不能跳过tab键
+** Problem														   :unsolved:
+*** 用户详细信息,关键词和网站排名的时间选项可能不同,最好是取并集.目前仅用关键词的为准.
+	- 问题
+	- [X] 周加时间
+	- [X] 显示条数没有局限50条
+	- [ ] 按关键字能不能也做成extjs形式
+	- [X] 按历史记录查询的关键字显示500错误。
+		  问题原因：func.inc中调用了logger_print(),未包含logger.inc文件
+	- [ ] mysql源码安装make libedit出错.
+	- [X] ie中点击用户关键词，弹出出错菜单“无法打开index.php”--去掉了tip的初始化代码
+	- [ ] ie中按关键词查询用户，周tab中无法显示示例,create_tabpannel.js中周下拉框的菜单创建列表中多了个逗号
+	- [ ] phpCannot modify header informatio错误--sesson_start()
+      放在html输出之前，保证<?php...?>之前之后无空格，空行等。重启lighttpd
+** install
+*** lighttpd-1.4.22:
+	1. 下载源码:wget http://www.lighttpd.net/download/lighttpd-1.4.22.tar.gz
+	2. ./configure --prefix>/usr/local/lighttpd
+	   make && make install
+	3. 使用root账户，新增lighttpd用户：
+	   groupadd lighttpd
+	   useradd -g lighttpd -s /sbin/nologin -d /dev/null lighttpd
+	4. 文件设置：
+	   1) cp -p doc/sysconfig.lighttpd /etc/sysconfig/lighttpd
+	   2) install -Dp ./doc/lighttpd.conf /etc/lighttpd/lighttpd.conf
+	   3) cp ./doc/rc.lighttpd.redhat /etc/init.d/lighttpd
+	      chmod a+rx /etc/init.d/lighttpd
+	   4) 建立log和php-fastcgittpd.socket文件夹
+		  mkdir /var/log/lighttpd
+		  chown lighttpd /var/log/lighttpd
+		  chgrp lighttpd /var/log/lighttpd
+		  mkdir /var/run/lighttpd
+		  chown lighttpd /var/run/lighttpd
+		  chgrp lighttpd /var/run/lighttpd
+	   5) 让lighttpd开机自动运行:chkconfig lighttpd on
+	   6) 修改/etc/lighttpd/lighttpd.conf:
+	      * 将 #”mod_fastcgi”, 的#去掉
+		 　　server.modules > (
+		 　　 "mod_rewrite",
+		 　　 "mod_redirect",
+		 　　# "mod_alias",
+		 　　 "mod_Access",
+		 　　# "mod_cml",
+		 　　# "mod_trigger_b4_dl",
+		 　　# "mod_auth",
+		 　　# "mod_status",
+		 　　# "mod_setenv",
+		 　　 "mod_fastcgi",..)
+	       * 找到fastcgi的定义
+			 　#### fastcgi module
+			 　## read fastcgi.txt for more info
+			 　## for PHP don't forget to set cgi.fix_pathinfo > 1 in the php.ini
+			 　fastcgi.server > ( ".php" >>
+			 　( "localhost" >>
+			 　(
+			 　"socket" >> "/var/run/lighttpd/php-fastcgi.socket",
+			 　"bin-path" >> "/usr/php-fcgi/bin/php-cgi"
+			 　)))
+	6. 修改服务器主目录:server.document-root > "/var/www/htdocs/"
+**** lighttpd安装后的文件位置:
+	  /etc/init.d/lighttpd
+	  /etc/sysconfig/lighttpd
+	  /etc/lighttpd
+	  /usr/local/sbin
+	  /var/log/lighttpd
+	  /var/run/lighttpd
+*** mysql-5.1.32:
+**** install
+	 1. 下载源代码:wget http://dev.mysql.com/get/Downloads/MySQL-5.1/mysql-5.1.32.tar.gz/from/http://mysql.cs.pu.edu.tw/
+	 2. 安装相关软件包：yum install libtermcap-devel.x86_64
+	 3. ./configure --prefix>/usr/local/mysql --with-charset>utf8 \
+       	--with-collation>utf8_general_ci --with-extra-charsets>all \
+       	--with-pthread --enable-thread-safe-client --without-debug \
+		--enable-assemble
+		make && make install
+	   	安装后mysql的位置：/usr/local/bin/mysql
+	 4. 配置mysql账户：
+	   	/usr/sbin/groupadd mysql
+	   	/usr/sbin/useradd -g mysql mysql
+		chown -R mysql:mysql /usr/local/mysql
+	 5. 创建MySQL数据文件存放目录/mysql/3306
+	   	mkdir -p /mysql/3306
+	   	chmod +w /mysql/3306
+	   	chown -R mysql:mysql /mysql/3306
+	   	mkdir -p /mysql/3306/data
+	   	chmod +w /mysql/3306/data
+	   	chown -R mysql:mysql /mysql/3306/data
+	   	chown -R mysql:mysql /mysql
+	 6. 创建配置文件/mysql/3306/my.cnf
+	 7. 以mysql用户帐号的身份建立数据表
+		/usr/local/mysql/bin/mysql_install_db --defaults-file>/mysql/3306/my.cnf --basedir>/usr/local/mysql --datadir>/mysql/3306/data --user>mysql --pid-file>/mysql/3306/mysql.pid --skip-locking --port>3306 --socket>/mysql/3306/mysql.sock
+	 8. 启动MySQL
+		1) ln -s /usr/local/mysql/bin/mysql /usr/bin
+	   	2) /bin/sh /usr/local/mysql/bin/mysqld_safe --defaults-file>/mysql/3306/my.cnf &
+	   	   　附：停止MySQL
+		   /usr/local/mysql/bin/mysqladmin -u root -p -S /mysql/3306/mysql.sock shutdown
+	 9. 安装mysqlcft中文全文索引插件
+	   	1) 从命令行登入MySQL服务器：
+		   /usr/local/mysql/bin/mysql -u root -p -S /mysql/3306/mysql.sock
+	   	2) 查看MySQL插件目录的默认路径的SQL语句：
+		   SHOW VARIABLES LIKE 'plugin_dir';
+	   	3) 下载mysqlcft中文全文索引插件，解压后拷贝mysqlcft.so文件到
+		   MySQL插件目录
+		   - 32位Linux操作系统： 
+			 wget http://mysqlcft.googlecode.com/files/mysqlcft-1.0.0-i386-bin.tar.gz
+			 tar zxvf mysqlcft-1.0.0-i386-bin.tar.gz
+			 mkdir -p /usr/local/mysqlcft/lib/mysql/plugin/
+			 cp mysqlcft.so /usr/local/mysqlcft/lib/mysql/plugin/
+		   - 64位Linux操作系统：
+			 wget http://mysqlcft.googlecode.com/files/mysqlcft-1.0.0-x86_64-bin.tar.gz
+			 tar zxvf mysqlcft-1.0.0-x86_64-bin.tar.gz
+			 mkdir -p /usr/local/mysql/lib/mysql/plugin/
+			 cp mysqlcft.so /usr/local/mysql/lib/mysql/plugin/
+	   	4) 安装mysqlcft.so插件
+		   ① 从命令行登入MySQL服务器：
+		   /usr/local/mysqlbin/mysql -u root -p -S /mysql/3306/mysql.sock
+		   ② 安装mysqlcft.so插件的SQL语句：
+		   INSTALL PLUGIN mysqlcft SONAME 'mysqlcft.so';
+		   ③ 查看mysqlcft.so插件是否安装成功的SQL语句：
+		   SELECT * FROM mysql.plugin;
+		   SHOW PLUGINS;
+		   附：如果要卸载mysqlcft.so插件，执行以下SQL语句（如果已经创建了mysqlcft索引，请先删除mysqlcft索引，再卸载mysqlcft.so插件）：
+		   UNINSTALL PLUGIN mysqlcft;
+**** setup
+***** ./configure --prefix>/usr/local/mysql --without-debug -with-unix-socket-path>/usr/local/mysql/mysql.sock --enable-assembler --with-extra-charsets>all --with-pthread --enable-thread-safe-client
+***** /usr/local/mysql/bin/mysql_install_db --defaults-file>/mysql/3306/my.cnf --basedir>/usr/local/mysql --datadir>/mysql/3306/data --user>mysql --pid-file>/mysql/3306/mysql.pid --skip-locking --port>3306 --socket>/mysql/3306/mysql.sock
+**** 添加启动停止脚本：
+***** start_mysql.sh
+      #!/bin/bash
+	  bash -c "/usr/local/mysqlcft/bin/mysqld_safe --defaults-file>/mysql/3306/my.cnf" &
+***** stop_mysql.sh
+      #!/bin/bash
+	  /usr/local/mysqlcft/bin/mysqladmin -u root -p -S /mysql/3306/mysql.sock shutdown
+**** 修改密码:
+	  /usr/local/mysql/bin/mysqladmin -uroot -p password chinatt123456 -S /mysql/3306/mysql.sock
+*** php-5.2.9:
+**** install
+	 1. 下载并解压源码：wget
+        http://cn.php.net/get/php-5.2.9.tar.bz2/from/this/mirror
+		tar xjvf php-5.2.9.tar.bz2
+		cd php-5.2.9
+	 2. 安装相关lib(由于php不区分32位和64位，所以以下版本应均为32位,否
+        则在configure时会报错找不到库)：
+		yum install php-gd
+		yum install mbstring
+		yum install openssl-devel
+		yum install curl-devel
+		yum install libjpeg-devel	
+		yum install libpng-devel
+		yum install openldap-devel
+	 3. configure:
+		./configure --prefix>/usr/local/php-fcgi \
+		--with-config-file-path>/usr/local/php-fcgi/etc \
+		--enable-sockets --enable-pcntl --enable-mbstring \
+		--with-iconv --with-gd --with-curl --with-zlib \
+		--with-jpeg-dir --with-ttf --with-ldap \
+		--with-gettext --enable-soap --with-xmlrpc \
+		--with-openssl --enable-fastcgi --enable-discard-path \
+		--enable-force-cgi-redirect \
+		--with-mysql>/usr/local/mysql \
+        --with-mysqli>/usr/local/mysql/bin/mysql_config \
+		--disable-debug
+**** make && make install
+**** php.ini的设置:
+***** 生成配置文件：cp php.ini-recommended /usr/local/php-fcgi/etc/php.ini
+***** lightttpd的配置:echo cgi.fix_pathinfo>1 >> /usr/local/php-fcgi/etc/php.ini	   
+** 数据导入
+*** 计算平台端
+**** post_process_accessfrequency.sh 20090401 用户访问主机排名
+**** post_process_cluster_useraccess.sh  用户访问关键字排名
+**** post_process_domainranking.sh 主机访问排名
+*** 服务器端
+**** HpSrvLoadData.php 3 load host访问排名文件到数据库
+*** 
+** 详细设计
+*** index.php
+common/apge.php
+common/include_js.php
+common/loading.php
+common/extjs_css.php
+未登录->model/login/login.php
+     ->loading.php
+     ->js/login.js
+已登录->js/index.js->treenode_location.php  
+	->history.php 网站访问排名之综合历史排名
+	    ->grid.js  显示grid
+        ->history.js  js获得返回数据,并在grid.js中渲染
+		     ->grid_data.php        查询特定时间段的网站排名信息
+	->year.php
+	    ....同history.php
+	->month.php
+	    ....同history.php
+	->week.php
+	    ....同history.php
+	->get_users_by_keyword_template.php
+	    ->create_combobox.js   创建年份月份等下拉选择框
+		    ->getdate.php
+		->create_tabpanel.js   创建示例，查询tab框
+		    ->query_example.php 查询示例及查询表单
+		->query_ajax.js        ajax根据关键查询用户id
+		    ->get_users_by_keyword.php 执行查询，返回结果集
+              ->调用query_ajax.js 中的get_keywords() 返回一个用户关注的前50条关键词
+                 ->get_keywords_by_uid.php  执行查询，返回用户关注所有关键词
+                     ->user_detail_template.php  用户详细信息的html生成脚本
+                         ->create_combobox.js 创建年份月份等下拉选择框
+                         ->pu_tab.js   加载年、季度、月、周的用户所关注的关键词和网站
+                              ->user_detail.php 执行查询，返回用户关注的前30个关键词和前50个网站
+	->get_hosts_by_keyword_template.php  根据关键词查询相关网站,只显示前20条
+	    ->get_users_by_host_template.php  根据网站查询关注该网站的前20位用户
+            ->user_detail_template.php  用户详细信息的html生成脚本
+			
+* gansha
+** memcache
+*** 记录着某个用户页面所属的用户信息：
+   	memcache.set('host_email',host.email()):用户email
+   	memcache.set('uname',host.nickname())：
+   	memcache.set('headshot',m_user.headshot)
+   	memcache.set('rank',m_user.rank)
+   	memcache.set('sign',m_user.sign)
+   	memcache.set('last_login',m_user.last_login)
+   	memcache.set('logouturl', users.create_logout_url('/'))
+*** 重置memcache的几种情况:
+**** blog进入：../blog/?blog=blog_key
+	 reset语句：
+     if blog.author != users.User(memcache.get('host_email')):
+        m_user = User_profile.gql('where user = :1',blog.author).get()
+        memcache.set('host_email',blog.author.email())
+        memcache.set('uname',blog.author.nickname())
+        memcache.set('rank',m_user.rank)
+        memcache.set('sign',m_user.sign)
+        memcache.set('last_login',m_user.last_login)
+        memcache.set('headshot',m_user.headshot)
+**** event进入:../event/?event=event_key
+** 用户信息：
+*** User：google的默认账号，包括nickname()，email()，user_id()，只有user_id()是永久不变的
+*** User_profile:我定义的，除了User，还包含age，addr...

@@ -1,0 +1,72 @@
+﻿上传数据格式：
+
+operation: 标识符
+word:'string'
+time_type:'week'/'month'
+time_value:'200940'/'200910'---------------------------------不用this和last了(明白)
+
+周
+
+operation:6
+
+
+返回：{'success':true,'results':rows的数组长度,rows:[{week:'200940(11.8-11.15)'},{week:'200941(11.8-11.15)'},...]}
+
+月份
+
+operation:0
+
+
+返回：{'success':true,'results':2,rows:[{month:'200910'},{month:'200911'}]}
+
+
+
+
+daydata(线状图表):
+
+operation:1
+
+返回 {'success':true,'results':2,rows:[{date:'2009-10-13',visits_num:13,uid_num:13:ip_num:13},{date:'2009-10-14',visits_num:14,uid_num:14:ip_num:14}]}
+
+
+
+
+
+topdomain:
+
+operation:2
+
+返回 {'success':true,'results':2,rows:[{domain:'',num:13},{domain:'',num:13}]}
+
+
+
+
+tophost:
+
+operation:3
+
+返回 {'success':true,'results':2,rows:[{host:'',num:13},{host:'',num:13}]}
+
+
+
+
+
+topurl:
+
+operation:4
+
+返回 {'success':true,'results':2,rows:[{url:'',num:13},{url:'',num:13}]}
+
+
+
+
+topuserid:
+
+operation:5
+
+返回 {'success':true,'results':2,rows:[{userid:'',num:13},{userid:'',num:13}]}
+
+
+注意：（num值为int型）
+
+
